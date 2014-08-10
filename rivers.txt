@@ -1,0 +1,29 @@
+############
+# Rives (Fluesse) in Austria
+
+
+##
+# 3 Flusseinzugsgebiete:
+#  - Donau (Black Sea)
+#  - Rhein (North Sea)
+#  - Elbe (North Sea)
+
+
+##########
+# Donau (Black Sea)
+
+Donau
+Lech
+Inn
+Enns
+March
+Raab
+Drau
+
+
+##############
+# Rhein (North Sea)
+
+
+###########
+# Elbe (North Sea)
