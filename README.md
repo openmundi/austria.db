@@ -1,4 +1,4 @@
-# Welcome to `austria.db` - Servus
+# Servus - Welcome to `austria.db`
 
 Free open public domain datasets
 for Austria (Österreich) / Europe includes
