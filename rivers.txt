@@ -1,5 +1,5 @@
-############
-# Rives (Fluesse) in Austria
+######################################
+# Rivers (Flüsse) in Austria
 
 
 ##
