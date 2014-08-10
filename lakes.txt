@@ -1,0 +1,77 @@
+#####################################
+# Lakes (Seen) in Austria
+
+
+## -- Burgenland
+
+Neusiedler See, 	B, 	140 km² (320 km²)    ## (mit km² Schilfgürtel)
+Neufelder See, 	   B, 	1.8 km²
+Lange Lacke,       B, 	1.5 km²
+Illmitzer Zicksee, B,   1.2 km²
+St. Andräer Zicksee, 	B,	1.2 km²
+
+## -- Wien
+
+Alte Donau, 	W,  	1.7 km²
+
+## -- Niederösterreich
+
+Lunzer See, 	N, 	  0.68 km²
+Erlaufsee, 	N/ST, 	  0.72 km²
+
+## -- Steiermark
+
+Grundlsee,      ST,	4.1 km²
+Altausseer See, ST, 	2.1 km²
+Toplitzsee,     ST,     0.54 km²
+
+
+## -- Oberösterreich
+
+Attersee,  O, 		46.2 km²
+Traunsee,  O,  		24.4 km²
+Mondsee,   O,    	13.8 km²
+Hallstätter See,  O, 	8.6 km²
+Irrsee,    O, 		3.6 km²
+Almsee,    O, 		0.85 km²
+Vorderer Gosausee,  O, 	 0.58 km²
+Offensee,  O,	 	0.55 km²
+
+## -- Salzburg
+
+Wolfgangsee, 	S/O,   12.8 km²
+Wallersee, 	S, 		6.1 km²
+Obertrumer See, S, 		4.9 km²
+Zeller See, 	S, 		4.6 km²
+Mattsee, 	S, 		3.6 km²
+Fuschlsee,    	S, 		2.7 km²
+Grabensee, 	S, 		1.3 km²
+Hintersee, 	S, 	 	0.82 km²
+
+
+## -- Kärnten
+
+Wörthersee, 	K, 	19.4 km²
+Millstätter See,  K,	 13.3 km²
+Ossiacher See, 	  K, 	10.8 km²
+Weißensee, 	K, 	 6.5 km²
+Faaker See, 	K, 	2.2 km²
+Keutschacher See, K,  	1.3 km²
+Klopeiner See,    K, 	1.1 km²
+Längsee, 	  K, 	 0.75 km²
+Pressegger See,   K, 	 0.55 km²
+
+
+## -- Tirol
+
+Achensee, 	T, 	6.8 km²
+Plansee, 	T, 	2.9 km²
+Heiterwanger See,  T,  	1.4 km²
+Walchsee, 	T, 	0.95 km²
+Haldensee, 	T, 	0.73 km²
+Hintersteiner See, T,  	0.55 km²
+Vilsalpsee, 	T, 	 0.51 km²
+
+## -- Vorarlberg
+
+Bodensee, 	V, 	539 km² (58.6 km²)   ## (davon km² in Österreich)
