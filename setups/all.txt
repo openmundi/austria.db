@@ -7,6 +7,6 @@ europe/at-austria!/states
 europe/at-austria!/states.abbr
 europe/at-austria!/states.iso
 
-europe/at-austria!/cities_i_10_000+
-europe/at-austria!/cities_ii
+europe/at-austria!/cities_(10_000+)
+
 

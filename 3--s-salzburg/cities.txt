@@ -1,0 +1,5 @@
+
+#  < 10_000 population
+
+Grödig,     6_638
+
