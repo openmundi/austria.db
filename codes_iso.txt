@@ -3,8 +3,6 @@
 #
 # see en.wikipedia.org/wiki/ISO_3166-2:AT
 
-## fix - rename to codes_iso.txt
-
 AT-1, Burgenland
 AT-2, Kärnten
 AT-3, Niederösterreich

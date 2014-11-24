@@ -1,8 +1,6 @@
 ###################
 # 9 Bundesländer
 
-## fix- rename to states_abbr.txt !!!
-
 Bgld.,  Burgenland
 NÖ,     Niederösterreich
 Wien,   Wien
