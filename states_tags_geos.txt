@@ -1,0 +1,17 @@
+#############################
+# Austria / Österreich (at)
+
+# -- 9 Bundesländer
+
+Burgenland,        eastern_austria
+Niederösterreich,  eastern_austria
+Wien,              eastern_austria
+
+Steiermark,        southern_austria
+Kärnten,           southern_austria
+
+Oberösterreich,    western_austria
+Salzburg,          western_austria
+Tirol,             western_austria
+Vorarlberg,        western_austria
+

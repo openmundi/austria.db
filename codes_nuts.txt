@@ -1,0 +1,60 @@
+####################################
+#
+#  see en.wikipedia.org/wiki/NUTS_of_Austria 
+#
+# NUTS 1 |  3 Groups of states (Gruppen von Bundesländern)
+# NUTS 2 |  9 States (Bundesländer) 
+# NUTS 3 | 35 Groups of Districts (Gruppen von Politischen Bezirken)
+
+
+AT1,   Ostösterreich, Eastern Austria [en]
+AT11,  Burgenland
+AT111, Mittelburgenland         ## Bezirk Oberpullendorf
+AT112, Nordburgenland           ## Eisenstadt, Rust, Bezirk Eisenstadt-Umgebung, Bezirk Mattersburg, Bezirk Neusiedl am See
+AT113, Südburgenland            ## Bezirk Güssing, Bezirk Jennersdorf, Bezirk Oberwart
+AT12,  Niederösterreich, Lower Austria [en]
+AT121, Mostviertel-Eisenwurzen  ## Waidhofen an der Ybbs, Bezirk Amstetten, Bezirk Melk, Bezirk Scheibbs
+AT122, Niederösterreich-Süd     ## Wiener Neustadt, Bezirk Lilienfeld, Bezirk Neunkirchen, Bezirk Wiener Neustadt-Land
+AT123, Sankt Pölten             ## Sankt Pölten, Bezirk Sankt Pölten-Land
+AT124, Waldviertel              ## Krems, Bezirk Gmünd, Bezirk Horn, Bezirk Krems-Land, Bezirk Waidhofen an der Thaya, Bezirk Zwettl
+AT125, Weinviertel              ## Bezirk Hollabrunn, part of Bezirk Mistelbach, part of Bezirk Gänserndorf
+AT126, Wiener Umland/Nordteil   ## Bezirk Korneuburg, Bezirk Tulln, part of Bezirken Gänserndorf, part of Bezirk Mistelbach, part of Bezirken Wien-Umgebung
+AT127, Wiener Umland/Südteil    ## Bezirk Bruck an der Leitha, Bezirk Baden, Bezirk Mödling, part of Bezirk Wien-Umgebung
+AT13,  Wien, Vienna [en]
+AT130, Wien
+
+AT2,   Südösterreich, Southern Austria [en]
+AT21,  Kärnten, Carinthia [en]
+AT211, Klagenfurt-Villach     ## Klagenfurt, Villach, Bezirk Klagenfurt-Land, Bezirk Villach-Land
+AT212, Oberkärnten            ## Bezirk Feldkirchen, Bezirk Hermagor, Bezirk Spittal an der Drau
+AT213, Unterkärnten           ## Bezirk Sankt Veit an der Glan, Bezirk Völkermarkt, Bezirk Wolfsberg
+AT22,  Steiermark, Styria [en]
+AT221, Graz                     ## Graz, Bezirk Graz-Umgebung
+AT222, Liezen                   ## Bezirk Liezen
+AT223, Östliche Obersteiermark  ## Bezirk Bruck an der Mur, Bezirk Leoben, Bezirk Mürzzuschlag
+AT224, Oststeiermark            ## Bezirk Feldbach, Bezirk Fürstenfeld, Bezirk Hartberg, Bezirk Radkersburg, Bezirk Weiz
+AT225, West- und Südsteiermark  ## Bezirk Deutschlandsberg, Bezirk Leibnitz, Bezirk Voitsberg
+AT226, Westliche Obersteiermark ## Bezirk Judenburg, Bezirk Knittelfeld, Bezirk Murau
+
+AT3,   Westösterreich, Western Austria [en]
+AT31,  Oberösterreich, Upper Austria [en]
+AT311, Innviertel               ## Bezirk Braunau am Inn, Bezirk Grieskirchen, Bezirk Ried im Innkreis, Bezirk Schärding
+AT312, Linz-Wels                ## Linz, Wels, Bezirk Linz-Land, Bezirk Wels-Land, Bezirk Eferding, part of Bezirk Urfahr-Umgebung
+AT313, Mühlviertel              ## Bezirk Freistadt, Bezirk Perg, Bezirk Rohrbach, part of Bezirk Urfahr-Umgebung
+AT314, Steyr-Kirchdorf          ## Steyr, Bezirk Kirchdorf an der Krems, Bezirk Steyr-Land
+AT315, Traunviertel             ## Bezirk Gmunden, Bezirk Vöcklabruck
+AT32,  Salzburg
+AT321, Lungau                   ## Bezirk Tamsweg
+AT322, Pinzgau-Pongau           ## Bezirk Sankt Johann im Pongau, Bezirk Zell am See
+AT323, Salzburg und Umgebung    ## Salzburg, Bezirk Salzburg-Umgebung, Bezirk Hallein
+AT33,  Tirol, Tyrol [en]
+AT331, Außerfern                ## Bezirk Reutte
+AT332, Innsbruck                ## Innsbruck, Bezirk Innsbruck Land
+AT333, Osttirol                 ## Bezirk Lienz
+AT334, Tiroler Oberland, Tyrolean Oberland [en]    ## Bezirk Imst, Bezirk Landeck
+AT335, Tiroler Unterland, Tyrolean Unterland [en]  ## Bezirk Kitzbühel, Bezirk Kufstein, Bezirk Schwaz
+AT34,  Vorarlberg
+AT341, Bludenz-Bregenzer Wald   ## Bezirk Bludenz, part of Bezirk Bregenz
+AT342, Rheintal-Bodenseegebiet  ## Bezirk Dornbirn, Bezirk Feldkirch, part of Bezirk Bregenz
+
+

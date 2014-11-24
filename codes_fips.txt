@@ -1,0 +1,11 @@
+
+AU01, Burgenland        # State
+AU02, Kärnten           # State
+AU03, Niederösterreich  # State
+AU04, Oberösterreich    # State
+AU05, Salzburg          # State
+AU06, Steiermark        # State
+AU07, Tirol             # State
+AU08, Vorarlberg        # State
+AU09, Wien              # State
+

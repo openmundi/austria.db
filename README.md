@@ -8,33 +8,65 @@ states (Bundesländer), cities, counties (Bezirke) and more.
 ~~~
 ### Cities
 
-Wien [Vienna], W,  1_731_236
-Graz,          ST,   265_318
-Linz,          O,    191_107
-Salzburg,      S,    148_521
-Innsbruck,     T,    121_329
-Klagenfurt,    K,     94_796
-Villach,       K,     59_585
-Wels,          O,     58_717
-St. Pölten,    N,     52_048
-Dornbirn,      V,     45_978
+Wien [Vienna], W,  1 731 236
+Graz,          ST,   265 318
+Linz,          O,    191 107
+Salzburg,      S,    148 521
+Innsbruck,     T,    121 329
+Klagenfurt,    K,     94 796
+Villach,       K,     59 585
+Wels,          O,     58 717
+St. Pölten,    N,     52 048
+Dornbirn,      V,     45 978
 ...
 ~~~
 
 ~~~
 ### 9 States (Bundesländer)
 
-b,  Burgenland,                        Eisenstadt,   3_962 km²,    284_000, eastern austria
-n,  Niederösterreich [Lower Austria],  St. Pölten,  19_186 km²,  1_609_800, eastern austria
-w,  Wien [Vienna],                     Wien,           415 km²,  1_707_000, eastern austria
+b,  Burgenland,                        Eisenstadt,   3 962 km²,    284 000
+n,  Niederösterreich [Lower Austria],  St. Pölten,  19 186 km²,  1 609 800
+w,  Wien [Vienna],                     Wien,           415 km²,  1 707 000
 
-st, Steiermark [Styria],               Graz,        16_401 km²,  1_208_900, southern austria
-k,  Kärnten [Carinthia],               Klagenfurt,   9_538 km²,    560_700, southern austria
+st, Steiermark [Styria],               Graz,        16 401 km²,  1 208 900
+k,  Kärnten [Carinthia],               Klagenfurt,   9 538 km²,    560 700
 
-o,  Oberösterreich [Upper Austria],    Linz,        11_980 km²,  1_412_300, western austria
-s,  Salzburg,                          Salzburg,     7_156 km²,    531_800, western austria
-t,  Tirol [Tyrol],                     Innsbruck,   12_640 km²,    708_900, western austria
-v,  Vorarlberg,                        Bregenz,      2_601 km²,    370_200, western austria
+o,  Oberösterreich [Upper Austria],    Linz,        11 980 km²,  1 412 300
+s,  Salzburg,                          Salzburg,     7 156 km²,    531 800
+t,  Tirol [Tyrol],                     Innsbruck,   12 640 km²,    708 900
+v,  Vorarlberg,                        Bregenz,      2 601 km²,    370 200
+~~~
+
+~~~
+### Counties (Bezirke)
+
+e,   Eisenstadt,          Eisenstadt,         43 km²
+eu,  Eisenstadt-Umgebung, Eisenstadt,        453 km²
+gs,  Güssing,             Güssing,           485 km²
+je,  Jennersdorf,         Jennersdorf,       253 km²
+ma,  Mattersburg,         Mattersburg,       238 km²
+nd,  Neusiedl am See,     Neusiedl am See,  1039 km²
+op,  Oberpullendorf,      Oberpullendorf,    701 km²
+...
+~~~
+
+~~~
+### NUTS 1/2/3 Codes
+
+AT1,   Ostösterreich, Eastern Austria [en]
+AT11,  Burgenland
+AT111, Mittelburgenland
+AT112, Nordburgenland
+AT113, Südburgenland
+AT12,  Niederösterreich, Lower Austria [en]
+AT121, Mostviertel-Eisenwurzen
+AT122, Niederösterreich-Süd
+AT123, Sankt Pölten
+AT124, Waldviertel
+AT125, Weinviertel
+AT126, Wiener Umland/Nordteil
+AT127, Wiener Umland/Südteil
+...
 ~~~
 
 

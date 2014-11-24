@@ -1,13 +1,15 @@
 ###################
 # 9 Bundesländer
 
+## fix- rename to states_abbr.txt !!!
 
-b: Bgld.
-n: NÖ
-w: Wien
-st: Stmk.
-k: Ktn.
-o: OÖ
-s: Sbg.
-t: Tirol
-v: Vbg.
+Bgld.,  Burgenland
+NÖ,     Niederösterreich
+Wien,   Wien
+Stmk.,  Steiermark
+Ktn.,   Kärnten
+OÖ,     Oberösterreich
+Sbg.,   Salzburg
+Tirol,  Tirol
+Vbg.,   Vorarlberg
+

@@ -4,8 +4,9 @@
 #     europe/at-austria!  (will get europe/ continent? needed)
 
 europe/at-austria!/states
-europe/at-austria!/states.abbr
-europe/at-austria!/states.iso
+
+## europe/at-austria!/states.abbr
+## europe/at-austria!/states.iso
 
 europe/at-austria!/cities_(10_000+)
 
