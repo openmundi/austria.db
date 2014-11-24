@@ -54,18 +54,18 @@ op,  Oberpullendorf,      Oberpullendorf,    701 km²
 ### NUTS 1/2/3 Codes
 
 AT1,   Ostösterreich, Eastern Austria [en]
-AT11,  Burgenland
-AT111, Mittelburgenland
-AT112, Nordburgenland
-AT113, Südburgenland
-AT12,  Niederösterreich, Lower Austria [en]
-AT121, Mostviertel-Eisenwurzen
-AT122, Niederösterreich-Süd
-AT123, Sankt Pölten
-AT124, Waldviertel
-AT125, Weinviertel
-AT126, Wiener Umland/Nordteil
-AT127, Wiener Umland/Südteil
+AT11,    Burgenland
+AT111,     Mittelburgenland
+AT112,     Nordburgenland
+AT113,     Südburgenland
+AT12,    Niederösterreich, Lower Austria [en]
+AT121,     Mostviertel-Eisenwurzen
+AT122,     Niederösterreich-Süd
+AT123,     Sankt Pölten
+AT124,     Waldviertel
+AT125,     Weinviertel
+AT126,     Wiener Umland/Nordteil
+AT127,     Wiener Umland/Südteil
 ...
 ~~~
 
