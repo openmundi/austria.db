@@ -1,0 +1,32 @@
+###
+# use district.txt for name - why, why not??
+#   move to wien.db - why, why not ??
+#
+#  include command \, -- why, why not?? change to - or something ?
+#  use ; as separator - why, why not??
+
+
+Wien 1.\, Innere Stadt
+Wien 2.\, Leopoldstadt
+Wien 3.\, Landstraße
+Wien 4.\, Wieden
+Wien 5.\, Margareten
+Wien 6.\, Mariahilf
+Wien 7.\, Neubau
+Wien 8.\, Josefstadt
+Wien 9.\, Alsergrund
+Wien 10.\, Favoriten
+Wien 11.\, Simmering
+Wien 12.\, Meidling
+Wien 13.\, Hietzing
+Wien 14.\, Penzing
+Wien 15.\, Rudolfsheim-Fünfhaus
+Wien 16.\, Ottakring
+Wien 17.\, Hernals
+Wien 18.\, Währing
+Wien 19.\, Döbling
+Wien 20.\, Brigittenau
+Wien 21.\, Floridsdorf
+Wien 22.\, Donaustadt
+Wien 23.\, Liesing
+
