@@ -7,3 +7,13 @@
 ##  ?? Gemeinden
 ##  ?? Ortschaften
 
+Innsbruck,                   105 km², 124_579   # I
+Imst,                       1725 km²,  57_271   # IM
+Innsbruck Land (Innsbruck), 1990 km², 169_680   # IL
+Kitzbühel,                  1163 km²,  62_318   # KB
+Kufstein,                    970 km², 103.317   # KU
+Landeck,                    1595 km²,  43_906   # LA
+Lienz|Osttirol,             2020 km²,  48_990   # LZ
+Reutte|Außerfern,           1237 km²,  31_672   # RE
+Schwaz,                     1843 km²,  80_305   # SZ
+
