@@ -4,7 +4,12 @@ at-austria!/states
 at-austria!/1--b-burgenland/counties
 at-austria!/1--n-niederoesterreich/counties
 at-austria!/1--w-wien/counties
-
+at-austria!/2--k-kaernten/counties
+at-austria!/2--st-steiermark/counties
+at-austria!/2--o-oberoesterreich/counties
+at-austria!/3--s-salzburg/counties
+at-austria!/3--t-tirol/counties
+at-austria!/3--v-vorarlberg/counties
 
 
 ## at-austria!/states.abbr

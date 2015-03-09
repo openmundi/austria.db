@@ -1,6 +1,16 @@
+##  Vorarlberg (V)
+#
+##  ?? Statutarstädte  - 
+##  ?? Bezirke
+##
+##  ?? Städte
+##  ?? Gemeinden
+##  ?? Ortschaften
+
 
 Bludenz,        1288 km²,    61_100   # BZ
 Bregenz,         863 km²,   128_568   # B
 Dornbirn,        172 km²,    84_117   # DO
 Feldkirch,       278 km²,   101_497   # FK
+
 

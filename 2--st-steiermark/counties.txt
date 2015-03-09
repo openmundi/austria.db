@@ -1,0 +1,27 @@
+##  Steiermark (ST)
+#
+##  ?? Statutarstädte  - 
+##  ?? Bezirke
+##
+##  ?? Städte
+##  ?? Gemeinden
+##  ?? Ortschaften
+
+Graz,                    127 km²,   273_838    # G
+Deutschlandsberg,        864 km²,    60_410    # DL
+Graz-Umgebung (Graz),   1086 km²,   147_081    # GU
+Leibnitz,                727 km²,    80_434    # LB
+Leoben,                  908 km²,    60_941    # LE, LN(B)
+Liezen,                 3459 km²,    79_535    # LI BA(A)
+Murau,                  1384 km²,    28_488    # MU
+Voitsberg,               679 km²,    51_691    # VO 
+Weiz,                   1098 km²,    88_696    # WZ
+Murtal (Judenburg),      1676 km²,   72_876    # MT JU, KF(A)
+Bruck-Mürzzuschlag (Bruck an der Mur),   2155 km²,   100_780   # BM MZ(A)
+Hartberg-Fürstenfeld (Hartberg),         1228 km²,    90_357   # HF HB, FF(A)
+Südoststeiermark (Feldbach),             1009 km²,    85_887   # SO FB, RA(A)
+
+
+### Expositur im Bezirk Liezen -- add - why, why not???
+Gröbming,  952 km²    # GB
+
