@@ -5,28 +5,31 @@
 #  include command \, -- why, why not?? change to - or something ?
 #  use ; as separator - why, why not??
 
+##
+# todo - check what key to use w1?
+#  keep komma in name/title e.g. Wien 1.\, Innere Stadt ???
 
-Wien 1.\, Innere Stadt
-Wien 2.\, Leopoldstadt
-Wien 3.\, Landstraße
-Wien 4.\, Wieden
-Wien 5.\, Margareten
-Wien 6.\, Mariahilf
-Wien 7.\, Neubau
-Wien 8.\, Josefstadt
-Wien 9.\, Alsergrund
-Wien 10.\, Favoriten
-Wien 11.\, Simmering
-Wien 12.\, Meidling
-Wien 13.\, Hietzing
-Wien 14.\, Penzing
-Wien 15.\, Rudolfsheim-Fünfhaus
-Wien 16.\, Ottakring
-Wien 17.\, Hernals
-Wien 18.\, Währing
-Wien 19.\, Döbling
-Wien 20.\, Brigittenau
-Wien 21.\, Floridsdorf
-Wien 22.\, Donaustadt
-Wien 23.\, Liesing
+wi,     Wien 1.\, Innere Stadt
+wii,    Wien 2.\, Leopoldstadt
+wiii,   Wien 3.\, Landstraße
+wiv,    Wien 4.\, Wieden
+wv,     Wien 5.\, Margareten
+wvi,    Wien 6.\, Mariahilf
+wvii,   Wien 7.\, Neubau
+wviii,  Wien 8.\, Josefstadt
+wix,    Wien 9.\, Alsergrund
+wx,     Wien 10.\, Favoriten
+wxi,    Wien 11.\, Simmering
+wxii,   Wien 12.\, Meidling
+wxiii,  Wien 13.\, Hietzing
+wxiv,   Wien 14.\, Penzing
+wxv,    Wien 15.\, Rudolfsheim-Fünfhaus
+wxvi,   Wien 16.\, Ottakring
+wxvii,  Wien 17.\, Hernals
+wxviii, Wien 18.\, Währing
+wixx,   Wien 19.\, Döbling
+wxx,    Wien 20.\, Brigittenau
+wxxi,   Wien 21.\, Floridsdorf
+wxxii,  Wien 22.\, Donaustadt
+wxxiii, Wien 23.\, Liesing
 

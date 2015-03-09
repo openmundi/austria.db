@@ -1,7 +1,7 @@
 
 
 at-austria!/states
-at-austria!/1--b-burgendland/counties
+at-austria!/1--b-burgenland/counties
 at-austria!/1--n-niederoesterreich/counties
 at-austria!/1--w-wien/counties
 
