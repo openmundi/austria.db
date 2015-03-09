@@ -30,7 +30,7 @@ Scheibbs,                         1023 km²,   41_073   # SB
 Tulln (Tulln an der Donau),        658 km²,   72_104  # TU  
 Waidhofen an der Thaya,            669 km²,   26_424   # WT
 Wiener Neustadt-Land (Wiener Neustadt),  970 km²,    75_285   # WB  
-Wien-Umgebung (Klosterneuburg),          484 km²,   117_343   # WU, SW(C) 
+Wien-Umgebung (Klosterneuburg),          484 km²,   117_343   # WU, SW (f. Schwechat) 
 Zwettl,                                 1400 km²,    43_102   # ZT
 
 

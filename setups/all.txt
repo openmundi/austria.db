@@ -1,13 +1,15 @@
 
-###
-# todo: use a different zip/archive/repo path?
-#     europe/at-austria!  (will get europe/ continent? needed)
 
-europe/at-austria!/states
+at-austria!/states
+at-austria!/1--b-burgendland/counties
+at-austria!/1--n-niederoesterreich/counties
+at-austria!/1--w-wien/counties
 
-## europe/at-austria!/states.abbr
-## europe/at-austria!/states.iso
 
-europe/at-austria!/cities_(10_000+)
+
+## at-austria!/states.abbr
+## at-austria!/states.iso
+
+at-austria!/cities_(10_000+)
 
 
