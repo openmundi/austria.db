@@ -1,0 +1,185 @@
+## alle gemeinden (plus einige orte)
+
+
+1     Burgenland
+101   .. Eisenstadt (Stadt)
+10101 .... Eisenstadt                             ## SS; 7000; 
+102   .. Rust (Stadt)
+10201 .... Rust                                   ## SS; 7071; 
+103   .. Eisenstadt-Umgebung
+10301 .... Breitenbrunn am Neusiedler See         ## M ; 7091; 
+10302 .... Donnerskirchen                         ## M ; 7082; 
+10303 .... Großhöflein                            ## M ; 7051; 
+10304 .... Hornstein                              ## M ; 7053; 2491
+10305 .... Klingenbach                            ##   ; 7013; 
+10306 .... Leithaprodersdorf                      ##   ; 2443; 
+10307 .... Mörbisch am See                        ##   ; 7072; 
+10308 .... Müllendorf                             ##   ; 7052; 
+10309 .... Neufeld an der Leitha                  ## ST; 2491; 
+10310 .... Oggau am Neusiedler See                ## M ; 7063; 
+10311 .... Oslip                                  ##   ; 7064; 
+10312 .... Purbach am Neusiedler See              ## ST; 7083; 
+10313 .... Sankt Margarethen im Burgenland        ## M ; 7062; 
+10314 .... Schützen am Gebirge                    ##   ; 7081; 
+10315 .... Siegendorf                             ## M ; 7011; 
+10316 .... Steinbrunn                             ## M ; 7035; 2491
+10317 .... Trausdorf an der Wulka                 ##   ; 7061; 
+10318 .... Wimpassing an der Leitha               ##   ; 2485; 
+10319 .... Wulkaprodersdorf                       ## M ; 7041; 
+10320 .... Loretto                                ## M ; 2443; 
+10321 .... Stotzing                               ##   ; 2443; 
+10322 .... Zillingtal                             ##   ; 7034; 7033 7035
+10323 .... Zagersdorf                             ##   ; 7011; 
+104   .. Güssing
+10401 .... Bocksdorf                              ##   ; 7551; 
+10402 .... Burgauberg-Neudauberg                  ##   ; 8291; 8292
+10403 .... Eberau                                 ## M ; 7521; 7522
+10404 .... Gerersdorf-Sulz                        ##   ; 7542; 7540
+10405 .... Güssing                                ## ST; 7540; 7542
+10406 .... Güttenbach                             ## M ; 7536; 
+10407 .... Heiligenbrunn                          ##   ; 7522; 
+10408 .... Kukmirn                                ## M ; 7543; 
+10409 .... Neuberg im Burgenland                  ##   ; 7537; 
+10410 .... Neustift bei Güssing                   ##   ; 7540; 
+10411 .... Olbendorf                              ##   ; 7534; 
+10412 .... Ollersdorf im Burgenland               ## M ; 7533; 8292
+10413 .... Sankt Michael im Burgenland            ## M ; 7535; 
+10414 .... Stegersbach                            ## M ; 7551; 
+10415 .... Stinatz                                ## M ; 7552; 
+10416 .... Strem                                  ## M ; 7522; 
+10417 .... Tobaj                                  ##   ; 7544; 
+10418 .... Hackerberg                             ##   ; 8292; 
+10419 .... Wörterberg                             ##   ; 8293; 
+10420 .... Großmürbisch                           ##   ; 7540; 
+10421 .... Inzenhof                               ##   ; 7540; 
+10422 .... Kleinmürbisch                          ##   ; 7540; 
+10423 .... Tschanigraben                          ##   ; 7540; 
+10424 .... Heugraben                              ##   ; 7551; 
+10425 .... Rohr im Burgenland                     ##   ; 7551; 
+10426 .... Bildein                                ##   ; 7521; 
+10427 .... Rauchwart                              ##   ; 7535; 
+10428 .... Moschendorf                            ##   ; 7540; 
+105   .. Jennersdorf
+10501 .... Deutsch Kaltenbrunn                    ## M ; 7572; 
+10502 .... Eltendorf                              ##   ; 7562; 
+10503 .... Heiligenkreuz im Lafnitztal            ## M ; 7561; 
+10504 .... Jennersdorf                            ## ST; 8380; 8282
+10505 .... Minihof-Liebau                         ## M ; 8384; 
+10506 .... Mogersdorf                             ## M ; 8382; 
+10507 .... Neuhaus am Klausenbach                 ## M ; 8385; 8384
+10508 .... Rudersdorf                             ## M ; 7571; 7564
+10509 .... Sankt Martin an der Raab               ## M ; 8383; 8350 8380 8384 8385
+10510 .... Weichselbaum                           ##   ; 8382; 
+10511 .... Königsdorf                             ##   ; 7563; 
+10512 .... Mühlgraben                             ##   ; 8385; 
+106   .. Mattersburg
+10601 .... Draßburg                               ##   ; 7021; 
+10602 .... Forchtenstein                          ##   ; 7212; 
+10603 .... Hirm                                   ##   ; 7024; 
+10604 .... Loipersbach im Burgenland              ##   ; 7020; 
+10605 .... Marz                                   ##   ; 7221; 
+10606 .... Mattersburg                            ## ST; 7210; 
+10607 .... Neudörfl                               ## M ; 7201; 
+10608 .... Pöttelsdorf                            ##   ; 7023; 
+10609 .... Pöttsching                             ## M ; 7033; 7202
+10610 .... Rohrbach bei Mattersburg               ## M ; 7222; 
+10611 .... Bad Sauerbrunn                         ##   ; 7202; 
+10612 .... Schattendorf                           ## M ; 7022; 
+10613 .... Sieggraben                             ##   ; 7223; 
+10614 .... Sigleß                                 ##   ; 7032; 
+10615 .... Wiesen                                 ## M ; 7203; 7202
+10616 .... Antau                                  ##   ; 7042; 
+10617 .... Baumgarten                             ##   ; 7021; 
+10618 .... Zemendorf-Stöttera                     ##   ; 7023; 
+10619 .... Krensdorf                              ##   ; 7031; 
+107   .. Neusiedl am See
+10701 .... Andau                                  ## M ; 7163; 
+10702 .... Apetlon                                ## M ; 7143; 7132 7161
+10703 .... Bruckneudorf                           ##   ; 2460; 2462
+10704 .... Deutsch Jahrndorf                      ##   ; 2423; 
+10705 .... Frauenkirchen                          ## ST; 7132; 
+10706 .... Gattendorf                             ##   ; 2474; 
+10707 .... Gols                                   ## M ; 7122; 
+10708 .... Halbturn                               ##   ; 7131; 7123
+10709 .... Illmitz                                ## M ; 7142; 
+10710 .... Jois                                   ## M ; 7093; 
+10711 .... Kittsee                                ## M ; 2421; 
+10712 .... Mönchhof                               ##   ; 7123; 
+10713 .... Neusiedl am See                        ## ST; 7100; 
+10714 .... Nickelsdorf                            ##   ; 2425; 
+10715 .... Pama                                   ##   ; 2422; 
+10716 .... Pamhagen                               ##   ; 7152; 
+10717 .... Parndorf                               ##   ; 7111; 2471
+10718 .... Podersdorf am See                      ## M ; 7141; 
+10719 .... Sankt Andrä am Zicksee                 ## M ; 7161; 
+10720 .... Tadten                                 ##   ; 7162; 
+10721 .... Wallern im Burgenland                  ## M ; 7151; 
+10722 .... Weiden am See                          ## M ; 7121; 7100
+10723 .... Winden am See                          ##   ; 7092; 
+10724 .... Zurndorf                               ## M ; 2424; 
+10725 .... Neudorf                                ##   ; 2475; 
+10726 .... Potzneusiedl                           ##   ; 2473; 
+10727 .... Edelstal                               ##   ; 2413; 
+108   .. Oberpullendorf
+10801 .... Deutschkreutz                          ## M ; 7301; 
+10802 .... Draßmarkt                              ## M ; 7372; 7371
+10803 .... Frankenau-Unterpullendorf              ##   ; 7361; 7452
+10804 .... Großwarasdorf                          ##   ; 7304; 
+10805 .... Horitschon                             ## M ; 7312; 
+10806 .... Kaisersdorf                            ##   ; 7342; 
+10807 .... Kobersdorf                             ## M ; 7332; 7341
+10808 .... Lackenbach                             ## M ; 7322; 
+10809 .... Lockenhaus                             ## M ; 7442; 
+10810 .... Lutzmannsburg                          ## M ; 7361; 
+10811 .... Mannersdorf an der Rabnitz             ##   ; 7444; 7443
+10812 .... Markt Sankt Martin                     ## M ; 7341; 2812
+10813 .... Neckenmarkt                            ## M ; 7311; 
+10814 .... Neutal                                 ##   ; 7343; 
+10815 .... Nikitsch                               ##   ; 7302; 7361
+10816 .... Oberpullendorf                         ## ST; 7350; 7304
+10817 .... Pilgersdorf                            ##   ; 7441; 
+10818 .... Piringsdorf                            ##   ; 7373; 
+10819 .... Raiding                                ## M ; 7321; 
+10820 .... Ritzing                                ##   ; 7323; 
+10821 .... Steinberg-Dörfl                        ## M ; 7453; 
+10822 .... Stoob                                  ## M ; 7344; 
+10823 .... Weppersdorf                            ## M ; 7331; 
+10824 .... Lackendorf                             ##   ; 7321; 
+10825 .... Unterfrauenhaid                        ## M ; 7321; 
+10826 .... Unterrabnitz-Schwendgraben             ##   ; 7371; 
+10827 .... Weingraben                             ##   ; 7374; 
+10828 .... Oberloisdorf                           ##   ; 7451; 
+109   .. Oberwart
+10901 .... Bad Tatzmannsdorf                      ##   ; 7431; 
+10902 .... Bernstein                              ## M ; 7434; 2852
+10903 .... Deutsch Schützen-Eisenberg             ##   ; 7474; 
+10904 .... Grafenschachen                         ##   ; 7423; 
+10905 .... Großpetersdorf                         ## M ; 7503; 
+10906 .... Hannersdorf                            ##   ; 7473; 7474
+10907 .... Kemeten                                ##   ; 7531; 
+10908 .... Kohfidisch                             ## M ; 7512; 
+10909 .... Litzelsdorf                            ## M ; 7532; 
+10910 .... Loipersdorf-Kitzladen                  ##   ; 7411; 
+10911 .... Mariasdorf                             ## M ; 7433; 
+10912 .... Markt Allhau                           ## M ; 7411; 
+10913 .... Markt Neuhodis                         ## M ; 7464; 
+10914 .... Mischendorf                            ##   ; 7511; 
+10915 .... Oberdorf im Burgenland                 ##   ; 7501; 
+10916 .... Oberschützen                           ##   ; 7432; 2852 7400 7431
+10917 .... Oberwart                               ## ST; 7400; 
+10918 .... Pinkafeld                              ## ST; 7423; 
+10919 .... Rechnitz                               ## M ; 7471; 
+10920 .... Riedlingsdorf                          ## M ; 7422; 
+10921 .... Rotenturm an der Pinka                 ## M ; 7501; 
+10922 .... Schachendorf                           ##   ; 7472; 7503
+10923 .... Stadtschlaining                        ## ST; 7461; 7400
+10924 .... Unterkohlstätten                       ##   ; 7435; 7434
+10925 .... Unterwart                              ##   ; 7501; 
+10926 .... Weiden bei Rechnitz                    ##   ; 7463; 7461 7503
+10927 .... Wiesfleck                              ##   ; 7423; 
+10928 .... Wolfau                                 ## M ; 7412; 
+10929 .... Neustift an der Lafnitz                ## M ; 7423; 
+10930 .... Jabing                                 ##   ; 7503; 
+10931 .... Badersdorf                             ##   ; 7512; 
+10932 .... Schandorf                              ##   ; 7472;
+

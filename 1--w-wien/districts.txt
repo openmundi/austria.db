@@ -1,3 +1,6 @@
+####
+# note: use (city) districts; do NOT use counties for now
+
 ###
 # use district.txt for name - why, why not??
 #   move to wien.db - why, why not ??
