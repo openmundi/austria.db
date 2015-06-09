@@ -79,6 +79,7 @@
 10604 .... Loipersbach im Burgenland              ##   ; 7020; 
 10605 .... Marz                                   ##   ; 7221; 
 10606 .... Mattersburg                            ## ST; 7210; 
+      ...... Mattersburg          ##  (6 256)
 10607 .... Neudörfl                               ## M ; 7201; 
 10608 .... Pöttelsdorf                            ##   ; 7023; 
 10609 .... Pöttsching                             ## M ; 7033; 7202
