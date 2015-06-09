@@ -1,0 +1,301 @@
+6     Steiermark
+601   .. Graz (Stadt)
+60101 .... Graz                                   ## SS; 8010; 8020 8036 8041 8042 8043 8044 8045 8046 8047 8051 8052 8053 8054 8055 8073 8074
+603   .. Deutschlandsberg
+60305 .... Frauental an der Laßnitz               ## M ; 8523; 8530
+60318 .... Lannach                                ## M ; 8502; 8503 8511
+60323 .... Pölfing-Brunn                          ## M ; 8544; 8551
+60324 .... Preding                                ## M ; 8504; 8503
+60326 .... Sankt Josef (Weststeiermark)           ##   ; 8503; 8143
+60329 .... Sankt Peter im Sulmtal                 ##   ; 8542; 8541
+60341 .... Wettmannstätten                        ## M ; 8521; 8444 8504
+60344 .... Deutschlandsberg                       ## ST; 8530; 8510 8523 8524
+60345 .... Eibiswald                              ## M ; 8552; 8455 8551 8553 8554
+60346 .... Groß Sankt Florian                     ## M ; 8522; 8444 8521
+60347 .... Sankt Martin im Sulmtal                ##   ; 8543; 8443 8522 8542 8544 8551
+60348 .... Sankt Stefan ob Stainz                 ##   ; 8511; 8510 8562 8563
+60349 .... Schwanberg                             ## M ; 8541; 8530 8542
+60350 .... Stainz                                 ## M ; 8510; 8503 8504 8511 8522 8524
+60351 .... Wies                                   ## M ; 8551; 8541 8542 8552 8553
+606   .. Graz-Umgebung
+60608 .... Feldkirchen bei Graz                   ## M ; 8073; 8401
+60611 .... Gössendorf                             ## M ; 8077; 
+60613 .... Gratkorn                               ## M ; 8101; 8046 8102 8114
+60617 .... Hart bei Graz                          ##   ; 8075; 8047 8301
+60618 .... Haselsdorf-Tobelbad                    ##   ; 8144; 8151
+60619 .... Hausmannstätten                        ## M ; 8071; 
+60623 .... Kainbach bei Graz                      ##   ; 8010; 8044 8047 8063 8301
+60624 .... Kalsdorf bei Graz                      ## M ; 8401; 
+60626 .... Kumberg                                ## M ; 8062; 8044 8061 8063 8160 8181
+60628 .... Laßnitzhöhe                            ## M ; 8301; 8075 8302
+60629 .... Lieboch                                ## M ; 8501; 8144
+60632 .... Peggau                                 ## M ; 8120; 8114 8130
+60639 .... Sankt Bartholomä                       ##   ; 8113; 8151
+60641 .... Sankt Oswald bei Plankenwarth          ##   ; 8113; 8111 8112
+60642 .... Sankt Radegund bei Graz                ##   ; 8061; 
+60645 .... Semriach                               ## M ; 8102; 8163
+60646 .... Stattegg                               ##   ; 8046; 8045
+60647 .... Stiwoll                                ##   ; 8113; 
+60648 .... Thal                                   ## M ; 8051; 8052 8113 8151
+60651 .... Übelbach                               ## M ; 8124; 8122 8153
+60653 .... Vasoldsberg                            ## M ; 8076; 8081
+60654 .... Weinitzen                              ##   ; 8044; 8045 8061 8062
+60655 .... Werndorf                               ##   ; 8402; 
+60656 .... Wundschuh                              ##   ; 8142; 
+60659 .... Deutschfeistritz                       ## M ; 8121; 8103 8114 8122 8124
+60660 .... Dobl-Zwaring                           ## M ; 8143; 8141 8142 8410 8411 8503 8504
+60661 .... Eggersdorf bei Graz                    ## M ; 8063; 8010 8044 8062 8200 8301 8302
+60662 .... Fernitz-Mellach                        ##   ; 8072; 8410
+60663 .... Frohnleiten                            ## ST; 8130; 8121 8122 8131
+60664 .... Gratwein-Straßengel                    ## M ; 8111; 8103 8112 8113 8114 8153
+60665 .... Hitzendorf                             ## M ; 8151; 8052 8054 8113 8144 8152 8561
+60666 .... Nestelbach bei Graz                    ##   ; 8302; 8063 8200 8301 8323
+60667 .... Raaba-Grambach                         ## M ; 8074; 8071 8302
+60668 .... Sankt Marein bei Graz                  ## M ; 8323; 8081 8082 8302 8322 8324
+60669 .... Seiersberg-Pirka                       ##   ; 8054; 8055 8073 8144
+60670 .... Unterpremstätten-Zettling              ## M ; 8141; 8054 8143 8144 8401
+610   .. Leibnitz
+61001 .... Allerheiligen bei Wildon               ##   ; 8412; 8081 8410 8413
+61002 .... Arnfels                                ## M ; 8454; 
+61007 .... Empersdorf                             ##   ; 8081; 8302
+61008 .... Gabersdorf                             ##   ; 8424; 
+61012 .... Gralla                                 ##   ; 8431; 
+61013 .... Großklein                              ## M ; 8452; 8441 8443 8451 8453 8462 8463
+61016 .... Heimschuh                              ##   ; 8451; 8430 8452
+61017 .... Hengsberg                              ##   ; 8411; 8403 8504
+61019 .... Kitzeck im Sausal                      ##   ; 8442; 8441 8451
+61020 .... Lang                                   ##   ; 8403; 
+61021 .... Lebring-Sankt Margarethen              ## M ; 8403; 8430
+61024 .... Oberhaag                               ##   ; 8455; 8443 8453 8454 8544
+61027 .... Ragnitz                                ##   ; 8413; 8403
+61030 .... Sankt Andrä-Höch                       ##   ; 8444; 8441 8442 8443 8505 8521 8522
+61032 .... Sankt Johann im Saggautal              ##   ; 8453; 8443 8452 8454 8544
+61033 .... Sankt Nikolai im Sausal                ## M ; 8505; 8411 8504 8521
+61043 .... Tillmitsch                             ##   ; 8430; 8451
+61045 .... Wagna                                  ## M ; 8435; 8430
+61049 .... Ehrenhausen an der Weinstraße          ## M ; 8461; 
+61050 .... Gamlitz                                ## M ; 8462; 8451 8461 8463
+61051 .... Gleinstätten                           ## M ; 8443; 8444 8452
+61052 .... Heiligenkreuz am Waasen                ## M ; 8081; 8072 8412
+61053 .... Leibnitz                               ## ST; 8430; 8451 8462
+61054 .... Leutschach an der Weinstraße           ## M ; 8463; 8452 8453 8454 8462
+61055 .... Sankt Georgen an der Stiefing          ## M ; 8413; 8410
+61056 .... Sankt Veit in der Südsteiermark        ## M ; 8423; 8421 8422 8435 8481
+61057 .... Schwarzautal                           ## M ; 8421; 8413 8422
+61058 .... Straß-Spielfeld                        ## M ; 8472; 8423 8461 8471
+61059 .... Wildon                                 ## M ; 8410; 8412
+611   .. Leoben
+61101 .... Eisenerz                               ## ST; 8790; 
+61105 .... Kalwang                                ## M ; 8775; 
+61106 .... Kammern im Liesingtal                  ## M ; 8773; 8772 8792 8793
+61107 .... Kraubath an der Mur                    ## M ; 8714; 
+61108 .... Leoben                                 ## ST; 8700; 8712 8792
+61109 .... Mautern in Steiermark                  ## M ; 8774; 
+61110 .... Niklasdorf                             ## M ; 8712; 
+61111 .... Proleb                                 ##   ; 8712; 
+61112 .... Radmer                                 ##   ; 8795; 8920
+61113 .... Sankt Michael in Obersteiermark        ## M ; 8770; 8713
+61114 .... Sankt Peter-Freienstein                ## M ; 8792; 
+61115 .... Sankt Stefan ob Leoben                 ##   ; 8713; 8714
+61116 .... Traboch                                ##   ; 8772; 8770 8792
+61118 .... Vordernberg                            ## M ; 8794; 
+61119 .... Wald am Schoberpaß                     ##   ; 8781; 
+61120 .... Trofaiach                              ## ST; 8793; 8794
+612   .. Liezen
+61203 .... Aigen im Ennstal                       ##   ; 8943; 
+61204 .... Altaussee                              ##   ; 8992; 
+61205 .... Altenmarkt bei Sankt Gallen            ## M ; 8934; 
+61206 .... Ardning                                ##   ; 8904; 
+61207 .... Bad Aussee                             ## ST; 8990; 
+61213 .... Gröbming                               ## M ; 8962; 
+61215 .... Grundlsee                              ##   ; 8993; 
+61217 .... Haus                                   ## M ; 8967; 8966 8970 8972
+61222 .... Lassing                                ##   ; 8903; 8900 8940
+61236 .... Ramsau am Dachstein                    ##   ; 8972; 
+61243 .... Selzthal                               ##   ; 8900; 8786
+61247 .... Trieben                                ## ST; 8784; 
+61251 .... Wildalpen                              ##   ; 8924; 
+61252 .... Wörschach                              ##   ; 8942; 
+61253 .... Admont                                 ## M ; 8911; 8912 8913
+61254 .... Aich                                   ##   ; 8966; 8965 8967
+61255 .... Bad Mitterndorf                        ## M ; 8983; 8982 8984
+61256 .... Gaishorn am See                        ## M ; 8783; 8781 8782
+61257 .... Irdning-Donnersbachtal                 ## M ; 8952; 8953
+61258 .... Landl                                  ##   ; 8931; 8920 8921 8922 8923
+61259 .... Liezen                                 ## ST; 8940; 8900
+61260 .... Michaelerberg-Pruggern                 ##   ; 8965; 8962
+61261 .... Mitterberg-Sankt Martin                ##   ; 8962; 8952 8954 8960 8961
+61262 .... Öblarn                                 ## M ; 8960; 
+61263 .... Rottenmann                             ## ST; 8786; 8784
+61264 .... Sankt Gallen                           ## M ; 8933; 8911 8932 8934
+61265 .... Schladming                             ## ST; 8970; 8971 8973 8974
+61266 .... Sölk                                   ##   ; 8961; 8962
+61267 .... Stainach-Pürgg                         ## M ; 8950; 8951 8982
+614   .. Murau
+61410 .... Mühlen                                 ## M ; 8822; 8820
+61413 .... Niederwölz                             ##   ; 8831; 8811
+61425 .... St. Peter am Kammersberg               ## M ; 8843; 8832 8842
+61428 .... Schöder                                ##   ; 8844; 
+61437 .... Krakau                                 ##   ; 8854; 
+61438 .... Murau                                  ## ST; 8850; 8813 8842 8852
+61439 .... Neumarkt in der Steiermark             ## M ; 8820; 8812 8822 9323 9360
+61440 .... Oberwölz                               ## ST; 8832; 8831
+61441 .... Ranten                                 ##   ; 8853; 8844
+61442 .... Sankt Georgen am Kreischberg           ##   ; 8861; 8850 8862
+61443 .... Sankt Lambrecht                        ## M ; 8813; 8812
+61444 .... Scheifling                             ## M ; 8811; 8820 8831
+61445 .... Stadl-Predlitz                         ##   ; 8862; 8863 8864
+61446 .... Teufenbach-Katsch                      ##   ; 8833; 8812 8841 8842 8850
+616   .. Voitsberg
+61611 .... Krottendorf-Gaisfeld                   ##   ; 8564; 8152 8563 8570
+61612 .... Ligist                                 ## M ; 8563; 8564
+61615 .... Mooskirchen                            ## M ; 8562; 
+61618 .... Rosental an der Kainach                ##   ; 8582; 8570 8580
+61621 .... Sankt Martin am Wöllmißberg            ##   ; 8580; 8563 8570 8583
+61624 .... Stallhofen                             ## M ; 8152; 8113 8151 8570
+61625 .... Voitsberg                              ## ST; 8570; 8152 8564 8572 8582
+61626 .... Bärnbach                               ## ST; 8572; 8570 8580 8582 8593
+61627 .... Edelschrott                            ## M ; 8583; 8580
+61628 .... Geistthal-Södingberg                   ##   ; 8152; 8113 8153
+61629 .... Hirschegg-Pack                         ##   ; 8584; 8583 9451
+61630 .... Kainach bei Voitsberg                  ##   ; 8573; 8572 8593
+61631 .... Köflach                                ## ST; 8580; 8572 8582 8591 8592 8593
+61632 .... Maria Lankowitz                        ## M ; 8591; 8580 8583 8592 8593 8741
+61633 .... Söding-Sankt Johann                    ##   ; 8561; 8152 8564 8565
+617   .. Weiz
+61701 .... Albersdorf-Prebuch                     ##   ; 8200; 8181 8211
+61708 .... Fischbach                              ##   ; 8654; 8673
+61710 .... Floing                                 ##   ; 8183; 8184 8223
+61711 .... Gasen                                  ##   ; 8616; 
+61716 .... Markt Hartmannsdorf                    ## M ; 8311; 8312
+61719 .... Hofstätten an der Raab                 ##   ; 8200; 8261 8311 8321
+61727 .... Ludersdorf-Wilfersdorf                 ##   ; 8200; 8063
+61728 .... Miesenbach bei Birkfeld                ##   ; 8190; 
+61729 .... Mitterdorf an der Raab                 ##   ; 8181; 8160
+61730 .... Mortantsch                             ##   ; 8160; 
+61731 .... Naas                                   ##   ; 8160; 
+61740 .... Puch bei Weiz                          ##   ; 8182; 8183 8212
+61741 .... Ratten                                 ##   ; 8673; 8672 8674
+61743 .... Rettenegg                              ##   ; 8674; 
+61744 .... St. Kathrein am Hauenstein             ##   ; 8672; 8671 8673
+61745 .... Sankt Kathrein am Offenegg             ##   ; 8171; 8160 8163 8172
+61746 .... St. Margarethen an der Raab            ## M ; 8321; 8311 8322 8323
+61748 .... Sinabelkirchen                         ## M ; 8261; 8200 8211 8262 8311
+61750 .... Strallegg                              ##   ; 8192; 8190 8673
+61751 .... Thannhausen                            ##   ; 8160; 
+61756 .... Anger                                  ## M ; 8184; 8172 8182 8183
+61757 .... Birkfeld                               ## M ; 8190; 8172 8184 8191
+61758 .... Fladnitz an der Teichalm               ##   ; 8163; 8130 8162
+61759 .... Gersdorf an der Feistritz              ##   ; 8212; 8211 8261 8262 8265
+61760 .... Gleisdorf                              ## ST; 8200; 8261 8302 8321
+61761 .... Gutenberg-Stenzengreith                ##   ; 8160; 8061 8162
+61762 .... Ilztal                                 ##   ; 8211; 8181 8200 8261
+61763 .... Passail                                ## M ; 8162; 8102 8160 8172
+61764 .... Pischelsdorf am Kulm                   ## M ; 8212; 8182 8222
+61765 .... Sankt Ruprecht an der Raab             ## M ; 8181; 8160
+61766 .... Weiz                                   ## ST; 8160; 8181
+620   .. Murtal
+62007 .... Fohnsdorf                              ##   ; 8753; 8720
+62008 .... Gaal                                   ##   ; 8731; 
+62010 .... Hohentauern                            ##   ; 8785; 
+62014 .... Kobenz                                 ## M ; 8723; 
+62021 .... Pusterwald                             ##   ; 8764; 8763
+62026 .... Sankt Georgen ob Judenburg             ##   ; 8756; 8800
+62032 .... Sankt Peter ob Judenburg               ##   ; 8755; 
+62034 .... Seckau                                 ## M ; 8732; 8720 8724
+62036 .... Unzmarkt-Frauenburg                    ## M ; 8800; 
+62038 .... Zeltweg                                ## ST; 8740; 
+62039 .... Großlobming                            ##   ; 8734; 8592 8741
+62040 .... Judenburg                              ## ST; 8750; 8742
+62041 .... Knittelfeld                            ## ST; 8720; 8734
+62042 .... Obdach                                 ## M ; 8742; 9463
+62043 .... Pöls-Oberkurzheim                      ## M ; 8761; 8753 8754 8762
+62044 .... Pölstal                                ## M ; 8763; 8762 8765
+62045 .... Sankt Marein-Feistritz                 ##   ; 8733; 8715
+62046 .... Sankt Margarethen bei Knittelfeld      ##   ; 8720; 8714 8715
+62047 .... Spielberg                              ## ST; 8724; 8720 8740
+62048 .... Weißkirchen in Steiermark              ## M ; 8741; 8734 8740 8742 8750
+621   .. Bruck-Mürzzuschlag
+62105 .... Breitenau am Hochlantsch               ## M ; 8614; 
+62115 .... Krieglach                              ## M ; 8670; 8662 8671
+62116 .... Langenwang                             ## M ; 8665; 8670 8680 8682
+62125 .... Pernegg an der Mur                     ##   ; 8132; 8131 8614
+62128 .... Sankt Lorenzen im Mürztal              ## M ; 8642; 8605 8625 8644 8652
+62131 .... Spital am Semmering                    ##   ; 8684; 2680 8680 8685
+62132 .... Stanz im Mürztal                       ##   ; 8653; 
+62135 .... Turnau                                 ## M ; 8625; 8624 8636
+62138 .... Aflenz                                 ## M ; 8623; 8621 8624
+62139 .... Bruck an der Mur                       ## ST; 8600; 
+62140 .... Kapfenberg                             ## ST; 8605; 8600 8641 8642
+62141 .... Kindberg                               ## ST; 8650; 8643 8644 8652 8653
+62142 .... Mariazell                              ## ST; 8630; 3294 8632 8634 8635
+62143 .... Mürzzuschlag                           ## ST; 8680; 8682
+62144 .... Neuberg an der Mürz                    ## M ; 8692; 2651 2654 8691 8693 8694
+62145 .... Sankt Barbara im Mürztal               ## M ; 8662; 8661 8663 8664
+62146 .... Sankt Marein im Mürztal                ## M ; 8641; 8600
+62147 .... Thörl                                  ## M ; 8621; 8622 8623 8624
+62148 .... Tragöß-Sankt Katharein                 ##   ; 8611; 8612
+622   .. Hartberg-Fürstenfeld
+62202 .... Bad Blumau                             ##   ; 8283; 
+62205 .... Buch-St. Magdalena                     ##   ; 8274; 8272 8294
+62206 .... Burgau                                 ## M ; 8291; 
+62209 .... Ebersdorf                              ##   ; 8273; 8272
+62211 .... Friedberg                              ## ST; 8240; 8243
+62214 .... Greinbach                              ##   ; 8230; 8225
+62216 .... Großsteinbach                          ##   ; 8265; 8264
+62219 .... Hartberg                               ## ST; 8230; 
+62220 .... Hartberg Umgebung                      ##   ; 8230; 8225 8274
+62226 .... Lafnitz                                ##   ; 8233; 8230
+62232 .... Ottendorf an der Rittschein            ##   ; 8312; 8262
+62233 .... Pinggau                                ## M ; 8243; 2872 7421 7423
+62235 .... Pöllauberg                             ##   ; 8225; 8250
+62242 .... Sankt Jakob im Walde                   ##   ; 8255; 8673 8674
+62244 .... Sankt Johann in der Haide              ##   ; 8295; 8230 8294
+62245 .... Sankt Lorenzen am Wechsel              ##   ; 8242; 8234 8251
+62247 .... Schäffern                              ##   ; 8244; 2852 2870 2871 7421 8243
+62252 .... Söchau                                 ##   ; 8362; 8280
+62256 .... Stubenberg                             ##   ; 8223; 8222 8224
+62262 .... Wenigzell                              ##   ; 8254; 8253
+62264 .... Bad Waltersdorf                        ## M ; 8271; 8264 8272 8283
+62265 .... Dechantskirchen                        ##   ; 8241; 
+62266 .... Feistritztal                           ##   ; 8221; 8212 8222 8223 8224 8265
+62267 .... Fürstenfeld                            ## ST; 8280; 8282 8362
+62268 .... Grafendorf bei Hartberg                ## M ; 8232; 8225 8230 8233 8234 8250
+62269 .... Großwilfersdorf                        ##   ; 8263; 8262 8264 8362
+62270 .... Hartl                                  ##   ; 8224; 8222 8265 8271 8272 8273
+62271 .... Ilz                                    ## M ; 8262; 8261 8265 8311
+62272 .... Kaindorf                               ## M ; 8224; 8225
+62273 .... Loipersdorf bei Fürstenfeld            ##   ; 8282; 8280
+62274 .... Neudau                                 ## M ; 8292; 
+62275 .... Pöllau                                 ## M ; 8225; 8224 8230
+62276 .... Rohr bei Hartberg                      ##   ; 8294; 8274 8293
+62277 .... Rohrbach an der Lafnitz                ##   ; 8234; 8233 8241 8250
+62278 .... Vorau                                  ## M ; 8250; 8234 8251 8252 8253 8254
+62279 .... Waldbach-Mönichwald                    ##   ; 8252; 8251 8253
+623   .. Südoststeiermark
+62311 .... Edelsbach bei Feldbach                 ##   ; 8332; 8311 8330
+62314 .... Eichkögl                               ##   ; 8322; 8311 8332
+62326 .... Halbenrain                             ## M ; 8492; 8355 8484 8493
+62330 .... Jagerberg                              ## M ; 8091; 8083 8421
+62332 .... Kapfenstein                            ##   ; 8353; 8344 8350
+62335 .... Klöch                                  ## M ; 8493; 8355 8492
+62343 .... Mettersdorf am Saßbach                 ## M ; 8092; 8093 8421
+62347 .... Murfeld                                ##   ; 8473; 8423 8471
+62368 .... Tieschen                               ## M ; 8355; 8493
+62372 .... Unterlamm                              ##   ; 8352; 8350 8361 8362
+62375 .... Bad Gleichenberg                       ##   ; 8344; 8343
+62376 .... Bad Radkersburg                        ## ST; 8490; 8492
+62377 .... Deutsch Goritz                         ##   ; 8483; 8345 8482 8484
+62378 .... Fehring                                ## ST; 8350; 8313 8330 8333 8352 8353 8361 8362
+62379 .... Feldbach                               ## ST; 8330; 8332 8333 8334 8344
+62380 .... Gnas                                   ## M ; 8342; 8083 8091 8330 8341 8343 8345
+62381 .... Kirchbach in der Steiermark            ## M ; 8082; 8081 8083
+62382 .... Kirchberg an der Raab                  ##   ; 8324; 8082 8322 8323 8332 8341 8082
+62383 .... Mureck                                 ## ST; 8480; 8481 8482
+62384 .... Paldau                                 ## M ; 8341; 8324 8342
+62385 .... Pirching am Traubenberg                ##   ; 8081; 
+62386 .... Riegersburg                            ## M ; 8333; 8312 8313 8330 8334 8361
+62387 .... Sankt Anna am Aigen                    ## M ; 8354; 8355
+62388 .... Sankt Peter am Ottersbach              ## M ; 8093; 8342
+62389 .... Sankt Stefan im Rosental               ## M ; 8083; 8082 8091 8324 8341 8421
+62390 .... Straden                                ## M ; 8345; 8342 8343 8355 8483 8484
