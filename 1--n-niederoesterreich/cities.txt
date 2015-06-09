@@ -1,8 +1,0 @@
-
-### fix: remove
-##   move to orte.txt
-
-#  < 10_000 population
-
-Horn,   6_411
-
