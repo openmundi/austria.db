@@ -1,0 +1,289 @@
+7     Tirol
+701   .. Innsbruck-Stadt
+70101 .... Innsbruck                              ## SS; 6020; 6080
+702   .. Imst
+70201 .... Arzl im Pitztal                        ##   ; 6471; 6460
+70202 .... Haiming                                ##   ; 6425; 6430 6433
+70203 .... Imst                                   ## ST; 6460; 
+70204 .... Imsterberg                             ##   ; 6492; 
+70205 .... Jerzens                                ##   ; 6474; 6473
+70206 .... Karres                                 ##   ; 6462; 
+70207 .... Karrösten                              ##   ; 6463; 6460
+70208 .... Längenfeld                             ##   ; 6444; 
+70209 .... Mieming                                ##   ; 6414; 
+70210 .... Mils bei Imst                          ##   ; 6493; 
+70211 .... Mötz                                   ##   ; 6423; 
+70212 .... Nassereith                             ##   ; 6465; 
+70213 .... Obsteig                                ##   ; 6416; 
+70214 .... Oetz                                   ##   ; 6433; 
+70215 .... Rietz                                  ##   ; 6421; 
+70216 .... Roppen                                 ##   ; 6426; 
+70217 .... St. Leonhard im Pitztal                ##   ; 6481; 
+70218 .... Sautens                                ##   ; 6432; 
+70219 .... Silz                                   ##   ; 6424; 6183
+70220 .... Sölden                                 ##   ; 6450; 6456 6458
+70221 .... Stams                                  ##   ; 6422; 6182
+70222 .... Tarrenz                                ##   ; 6464; 
+70223 .... Umhausen                               ##   ; 6441; 
+70224 .... Wenns                                  ##   ; 6473; 
+703   .. Innsbruck-Land
+70301 .... Absam                                  ##   ; 6067; 
+70302 .... Aldrans                                ##   ; 6071; 6073
+70303 .... Ampass                                 ##   ; 6070; 
+70304 .... Axams                                  ##   ; 6094; 
+70305 .... Baumkirchen                            ##   ; 6121; 
+70306 .... Birgitz                                ##   ; 6092; 
+70307 .... Ellbögen                               ##   ; 6083; 
+70308 .... Flaurling                              ##   ; 6403; 
+70309 .... Fritzens                               ##   ; 6122; 
+70310 .... Fulpmes                                ##   ; 6166; 6167
+70311 .... Gnadenwald                             ##   ; 6069; 
+70312 .... Götzens                                ##   ; 6091; 
+70313 .... Gries am Brenner                       ##   ; 6156; 
+70314 .... Gries im Sellrain                      ##   ; 6182; 
+70315 .... Grinzens                               ##   ; 6095; 
+70317 .... Gschnitz                               ##   ; 6150; 
+70318 .... Hatting                                ##   ; 6402; 
+70319 .... Inzing                                 ##   ; 6401; 
+70320 .... Kematen in Tirol                       ##   ; 6175; 6176
+70322 .... Kolsass                                ##   ; 6114; 
+70323 .... Kolsassberg                            ##   ; 6115; 
+70325 .... Lans                                   ##   ; 6072; 
+70326 .... Leutasch                               ##   ; 6105; 6100
+70327 .... Matrei am Brenner                      ## M ; 6143; 
+70328 .... Mieders                                ##   ; 6142; 
+70329 .... Mils                                   ##   ; 6068; 
+70330 .... Mühlbachl                              ##   ; 6143; 6150
+70331 .... Mutters                                ##   ; 6162; 6020
+70332 .... Natters                                ##   ; 6161; 6020 6091
+70333 .... Navis                                  ##   ; 6145; 
+70334 .... Neustift im Stubaital                  ##   ; 6167; 
+70335 .... Oberhofen im Inntal                    ##   ; 6406; 
+70336 .... Obernberg am Brenner                   ##   ; 6157; 
+70337 .... Oberperfuss                            ##   ; 6173; 
+70338 .... Patsch                                 ##   ; 6082; 
+70339 .... Pettnau                                ##   ; 6408; 6170
+70340 .... Pfaffenhofen                           ##   ; 6405; 
+70341 .... Pfons                                  ##   ; 6143; 
+70342 .... Polling in Tirol                       ##   ; 6404; 
+70343 .... Ranggen                                ##   ; 6179; 
+70344 .... Reith bei Seefeld                      ##   ; 6103; 6100
+70345 .... Rinn                                   ##   ; 6074; 
+70346 .... Rum                                    ## M ; 6063; 
+70347 .... St. Sigmund im Sellrain                ##   ; 6184; 
+70348 .... Scharnitz                              ##   ; 6108; 
+70349 .... Schmirn                                ##   ; 6154; 
+70350 .... Schönberg im Stubaital                 ##   ; 6141; 6020
+70351 .... Seefeld in Tirol                       ##   ; 6100; 
+70352 .... Sellrain                               ##   ; 6181; 
+70353 .... Sistrans                               ##   ; 6073; 
+70354 .... Hall in Tirol                          ## ST; 6060; 
+70355 .... Steinach am Brenner                    ## M ; 6150; 
+70356 .... Telfes im Stubai                       ##   ; 6165; 
+70357 .... Telfs                                  ## M ; 6410; 6100 6100
+70358 .... Thaur                                  ##   ; 6065; 6063
+70359 .... Trins                                  ##   ; 6152; 
+70360 .... Tulfes                                 ##   ; 6075; 
+70361 .... Unterperfuss                           ##   ; 6178; 
+70362 .... Vals                                   ##   ; 6154; 
+70364 .... Völs                                   ## M ; 6176; 
+70365 .... Volders                                ##   ; 6111; 
+70366 .... Wattenberg                             ##   ; 6113; 
+70367 .... Wattens                                ## M ; 6112; 
+70368 .... Wildermieming                          ##   ; 6413; 
+70369 .... Zirl                                   ## M ; 6170; 
+704   .. Kitzbühel
+70401 .... Aurach bei Kitzbühel                   ##   ; 6371; 
+70402 .... Brixen im Thale                        ##   ; 6364; 
+70403 .... Fieberbrunn                            ## M ; 6391; 
+70404 .... Going am Wilden Kaiser                 ##   ; 6353; 
+70405 .... Hochfilzen                             ##   ; 6395; 
+70406 .... Hopfgarten im Brixental                ## M ; 6361; 6314
+70407 .... Itter                                  ##   ; 6305; 
+70408 .... Jochberg                               ##   ; 6373; 
+70409 .... Kirchberg in Tirol                     ##   ; 6365; 
+70410 .... Kirchdorf in Tirol                     ##   ; 6382; 6383
+70411 .... Kitzbühel                              ## ST; 6370; 
+70412 .... Kössen                                 ##   ; 6345; 6344
+70413 .... Oberndorf in Tirol                     ##   ; 6372; 
+70414 .... Reith bei Kitzbühel                    ##   ; 6370; 6352 6353 6365
+70415 .... St. Jakob in Haus                      ##   ; 6392; 
+70416 .... St. Johann in Tirol                    ## M ; 6380; 
+70417 .... St. Ulrich am Pillersee                ##   ; 6393; 
+70418 .... Schwendt                               ##   ; 6385; 
+70419 .... Waidring                               ##   ; 6384; 
+70420 .... Westendorf                             ##   ; 6363; 
+705   .. Kufstein
+70501 .... Alpbach                                ##   ; 6236; 
+70502 .... Angath                                 ##   ; 6321; 
+70503 .... Bad Häring                             ##   ; 6323; 
+70504 .... Brandenberg                            ##   ; 6234; 
+70505 .... Breitenbach am Inn                     ##   ; 6252; 
+70506 .... Brixlegg                               ## M ; 6230; 
+70508 .... Ebbs                                   ##   ; 6341; 6330
+70509 .... Ellmau                                 ##   ; 6352; 
+70510 .... Erl                                    ##   ; 6343; 
+70511 .... Kirchbichl                             ##   ; 6322; 
+70512 .... Kramsach                               ##   ; 6233; 
+70513 .... Kufstein                               ## ST; 6330; 
+70514 .... Kundl                                  ## M ; 6250; 
+70515 .... Langkampfen                            ##   ; 6336; 
+70516 .... Mariastein                             ##   ; 6324; 
+70517 .... Münster                                ##   ; 6232; 
+70518 .... Niederndorf                            ##   ; 6342; 
+70519 .... Niederndorferberg                      ##   ; 6346; 
+70520 .... Radfeld                                ##   ; 6241; 
+70521 .... Rattenberg                             ## ST; 6240; 
+70522 .... Reith im Alpbachtal                    ##   ; 6235; 6260
+70523 .... Rettenschöss                           ##   ; 6347; 
+70524 .... Scheffau am Wilden Kaiser              ##   ; 6351; 
+70525 .... Schwoich                               ##   ; 6334; 
+70526 .... Söll                                   ##   ; 6306; 6330 6351
+70527 .... Thiersee                               ##   ; 6335; 
+70528 .... Angerberg                              ##   ; 6320; 
+70529 .... Walchsee                               ##   ; 6344; 
+70530 .... Wildschönau                            ##   ; 6311; 6313 6314
+70531 .... Wörgl                                  ## ST; 6300; 
+706   .. Landeck
+70601 .... Faggen                                 ##   ; 6525; 
+70602 .... Fendels                                ##   ; 6528; 
+70603 .... Fiss                                   ##   ; 6533; 
+70604 .... Fließ                                  ##   ; 6521; 6473 6500
+70605 .... Flirsch                                ##   ; 6572; 
+70606 .... Galtür                                 ##   ; 6563; 
+70607 .... Grins                                  ##   ; 6591; 6500
+70608 .... Ischgl                                 ##   ; 6561; 6562
+70609 .... Kappl                                  ##   ; 6555; 6553
+70610 .... Kaunerberg                             ##   ; 6527; 
+70611 .... Kaunertal                              ##   ; 6524; 
+70612 .... Kauns                                  ##   ; 6522; 
+70613 .... Ladis                                  ##   ; 6532; 
+70614 .... Landeck                                ## ST; 6500; 
+70615 .... Nauders                                ##   ; 6543; 6542
+70616 .... Pettneu am Arlberg                     ##   ; 6574; 
+70617 .... Pfunds                                 ##   ; 6542; 
+70618 .... Pians                                  ##   ; 6551; 6591
+70619 .... Prutz                                  ##   ; 6522; 
+70620 .... Ried im Oberinntal                     ##   ; 6531; 
+70621 .... St. Anton am Arlberg                   ##   ; 6580; 
+70622 .... Schönwies                              ##   ; 6491; 
+70623 .... See                                    ##   ; 6553; 6555
+70624 .... Serfaus                                ##   ; 6534; 6541 6542
+70625 .... Spiss                                  ##   ; 6544; 
+70626 .... Stanz bei Landeck                      ##   ; 6500; 
+70627 .... Strengen                               ##   ; 6571; 
+70628 .... Tobadill                               ##   ; 6552; 6553
+70629 .... Tösens                                 ##   ; 6541; 
+70630 .... Zams                                   ##   ; 6511; 6653
+707   .. Lienz
+70701 .... Abfaltersbach                          ##   ; 9913; 
+70702 .... Ainet                                  ##   ; 9951; 
+70703 .... Amlach                                 ##   ; 9908; 
+70704 .... Anras                                  ##   ; 9912; 
+70705 .... Assling                                ##   ; 9911; 
+70706 .... Außervillgraten                        ##   ; 9931; 
+70707 .... Dölsach                                ##   ; 9991; 9782
+70708 .... Gaimberg                               ##   ; 9905; 
+70709 .... Hopfgarten in Defereggen               ##   ; 9961; 
+70710 .... Innervillgraten                        ##   ; 9932; 
+70711 .... Iselsberg-Stronach                     ##   ; 9992; 
+70712 .... Kals am Großglockner                   ##   ; 9981; 
+70713 .... Kartitsch                              ##   ; 9941; 
+70714 .... Lavant                                 ##   ; 9906; 
+70715 .... Leisach                                ##   ; 9909; 
+70716 .... Lienz                                  ## ST; 9900; 
+70717 .... Matrei in Osttirol                     ## M ; 9971; 
+70718 .... Nikolsdorf                             ##   ; 9782; 
+70719 .... Nußdorf-Debant                         ## M ; 9990; 
+70720 .... Oberlienz                              ##   ; 9903; 
+70721 .... Obertilliach                           ##   ; 9942; 
+70723 .... Prägraten am Großvenediger             ##   ; 9974; 
+70724 .... St. Jakob in Defereggen                ##   ; 9963; 
+70725 .... St. Johann im Walde                    ##   ; 9952; 
+70726 .... St. Veit in Defereggen                 ##   ; 9962; 
+70727 .... Schlaiten                              ##   ; 9954; 
+70728 .... Sillian                                ## M ; 9920; 
+70729 .... Strassen                               ##   ; 9918; 
+70731 .... Thurn                                  ##   ; 9904; 
+70732 .... Tristach                               ##   ; 9907; 
+70733 .... Untertilliach                          ##   ; 9943; 
+70734 .... Virgen                                 ##   ; 9972; 
+70735 .... Heinfels                               ##   ; 9919; 
+708   .. Reutte
+70801 .... Bach                                   ##   ; 6653; 6654
+70802 .... Berwang                                ##   ; 6622; 6621
+70803 .... Biberwier                              ##   ; 6633; 
+70804 .... Bichlbach                              ##   ; 6621; 
+70805 .... Breitenwang                            ##   ; 6600; 
+70806 .... Ehenbichl                              ##   ; 6600; 6671
+70807 .... Ehrwald                                ##   ; 6632; 
+70808 .... Elbigenalp                             ##   ; 6652; 6653
+70809 .... Elmen                                  ##   ; 6644; 
+70810 .... Forchach                               ##   ; 6670; 
+70811 .... Grän                                   ##   ; 6673; 
+70812 .... Gramais                                ##   ; 6650; 
+70813 .... Häselgehr                              ##   ; 6651; 
+70814 .... Heiterwang                             ##   ; 6611; 
+70815 .... Hinterhornbach                         ##   ; 6646; 
+70816 .... Höfen                                  ##   ; 6604; 
+70817 .... Holzgau                                ##   ; 6654; 
+70818 .... Jungholz                               ##   ; 6691; 
+70819 .... Kaisers                                ##   ; 6655; 
+70820 .... Lechaschau                             ##   ; 6600; 
+70821 .... Lermoos                                ##   ; 6631; 
+70822 .... Musau                                  ##   ; 6600; 
+70823 .... Namlos                                 ##   ; 6623; 
+70824 .... Nesselwängle                           ##   ; 6672; 
+70825 .... Pfafflar                               ##   ; 6647; 
+70826 .... Pflach                                 ##   ; 6600; 
+70827 .... Pinswang                               ##   ; 6600; 
+70828 .... Reutte                                 ## M ; 6600; 
+70829 .... Schattwald                             ##   ; 6677; 
+70830 .... Stanzach                               ##   ; 6642; 
+70831 .... Steeg                                  ##   ; 6655; 6767
+70832 .... Tannheim                               ##   ; 6675; 
+70833 .... Vils                                   ## ST; 6682; 
+70834 .... Vorderhornbach                         ##   ; 6645; 
+70835 .... Wängle                                 ##   ; 6610; 
+70836 .... Weißenbach am Lech                     ##   ; 6671; 6672
+70837 .... Zöblen                                 ##   ; 6677; 
+709   .. Schwaz
+70901 .... Achenkirch                             ##   ; 6215; 
+70902 .... Aschau im Zillertal                    ##   ; 6274; 
+70903 .... Brandberg                              ##   ; 6290; 
+70904 .... Bruck am Ziller                        ##   ; 6260; 
+70905 .... Buch in Tirol                          ##   ; 6220; 
+70907 .... Eben am Achensee                       ##   ; 6212; 6213 6215
+70908 .... Finkenberg                             ##   ; 6292; 6295
+70909 .... Fügen                                  ##   ; 6263; 
+70910 .... Fügenberg                              ##   ; 6264; 
+70911 .... Gallzein                               ##   ; 6222; 
+70912 .... Gerlos                                 ##   ; 6281; 
+70913 .... Gerlosberg                             ##   ; 6280; 
+70914 .... Hainzenberg                            ##   ; 6278; 
+70915 .... Hart im Zillertal                      ##   ; 6265; 
+70916 .... Hippach                                ##   ; 6283; 
+70917 .... Jenbach                                ## M ; 6200; 
+70918 .... Kaltenbach                             ##   ; 6272; 
+70920 .... Mayrhofen                              ## M ; 6290; 6295
+70921 .... Pill                                   ##   ; 6136; 
+70922 .... Ramsau im Zillertal                    ##   ; 6284; 
+70923 .... Ried im Zillertal                      ##   ; 6273; 
+70924 .... Rohrberg                               ##   ; 6280; 
+70925 .... Schlitters                             ##   ; 6262; 6261 6263 6264
+70926 .... Schwaz                                 ## ST; 6130; 
+70927 .... Schwendau                              ##   ; 6283; 6290 6292
+70928 .... Stans                                  ##   ; 6135; 6200
+70929 .... Steinberg am Rofan                     ##   ; 6215; 
+70930 .... Strass im Zillertal                    ##   ; 6261; 6200
+70931 .... Stumm                                  ##   ; 6275; 
+70932 .... Stummerberg                            ##   ; 6275; 6276
+70933 .... Terfens                                ##   ; 6123; 
+70934 .... Tux                                    ##   ; 6293; 6294
+70935 .... Uderns                                 ##   ; 6271; 
+70936 .... Vomp                                   ## M ; 6134; 6215
+70937 .... Weer                                   ##   ; 6116; 
+70938 .... Weerberg                               ##   ; 6133; 
+70939 .... Wiesing                                ##   ; 6210; 
+70940 .... Zell am Ziller                         ## M ; 6280; 6283
+70941 .... Zellberg                               ##   ; 6277; 
