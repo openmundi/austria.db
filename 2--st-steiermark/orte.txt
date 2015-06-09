@@ -244,6 +244,7 @@
 62214 .... Greinbach                              ##   ; 8230; 8225
 62216 .... Großsteinbach                          ##   ; 8265; 8264
 62219 .... Hartberg                               ## ST; 8230; 
+      ...... Hartberg                   ## (6 547)
 62220 .... Hartberg Umgebung                      ##   ; 8230; 8225 8274
 62226 .... Lafnitz                                ##   ; 8233; 8230
 62232 .... Ottendorf an der Rittschein            ##   ; 8312; 8262
