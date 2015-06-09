@@ -1,0 +1,126 @@
+5     Salzburg
+501   .. Salzburg (Stadt)
+50101 .... Salzburg                               ## SS; 5020; 5023 5026 5061 5071 5081 5082
+502   .. Hallein
+50201 .... Abtenau                                ## M ; 5441; 5442 5524
+50202 .... Adnet                                  ##   ; 5421; 5323 5424
+50203 .... Annaberg-Lungötz                       ##   ; 5524; 5523
+50204 .... Golling an der Salzach                 ## M ; 5440; 
+50205 .... Hallein                                ## ST; 5400; 5083 5422
+50206 .... Krispl                                 ##   ; 5425; 
+50207 .... Kuchl                                  ## M ; 5431; 5424
+50208 .... Oberalm                                ## M ; 5411; 5400
+50209 .... Puch bei Hallein                       ##   ; 5412; 5061 5411
+50210 .... Rußbach am Paß Gschütt                 ##   ; 5442; 
+50211 .... Sankt Koloman                          ##   ; 5423; 
+50212 .... Scheffau am Tennengebirge              ##   ; 5440; 5441
+50213 .... Bad Vigaun                             ##   ; 5424; 
+503   .. Salzburg-Umgebung
+50301 .... Anif                                   ##   ; 5081; 
+50302 .... Anthering                              ##   ; 5102; 
+50303 .... Bergheim                               ##   ; 5101; 
+50304 .... Berndorf bei Salzburg                  ##   ; 5165; 
+50305 .... Bürmoos                                ##   ; 5111; 
+50306 .... Dorfbeuern                             ##   ; 5152; 
+50307 .... Ebenau                                 ##   ; 5323; 
+50308 .... Elixhausen                             ##   ; 5161; 
+50309 .... Elsbethen                              ##   ; 5061; 5026 5412
+50310 .... Eugendorf                              ## M ; 5301; 5302
+50311 .... Faistenau                              ##   ; 5324; 
+50312 .... Fuschl am See                          ##   ; 5330; 
+50313 .... Göming                                 ##   ; 5114; 
+50314 .... Grödig                                 ## M ; 5082; 5083
+50315 .... Großgmain                              ##   ; 5084; 
+50316 .... Hallwang                               ##   ; 5300; 
+50317 .... Henndorf am Wallersee                  ##   ; 5302; 
+50318 .... Hintersee                              ##   ; 5324; 
+50319 .... Hof bei Salzburg                       ##   ; 5322; 
+50320 .... Köstendorf                             ##   ; 5203; 
+50321 .... Koppl                                  ##   ; 5321; 5023
+50322 .... Lamprechtshausen                       ##   ; 5112; 5110
+50323 .... Mattsee                                ## M ; 5163; 
+50324 .... Neumarkt am Wallersee                  ## ST; 5202; 
+50325 .... Nußdorf am Haunsberg                   ##   ; 5151; 5162 5165
+50326 .... Oberndorf bei Salzburg                 ## ST; 5110; 
+50327 .... Obertrum am See                        ## M ; 5162; 
+50328 .... Plainfeld                              ##   ; 5325; 
+50329 .... Sankt Georgen bei Salzburg             ##   ; 5113; 
+50330 .... Sankt Gilgen                           ##   ; 5340; 4854 4866 5310 5342 5360
+50331 .... Schleedorf                             ##   ; 5205; 
+50332 .... Seeham                                 ##   ; 5164; 
+50335 .... Straßwalchen                           ## M ; 5204; 
+50336 .... Strobl                                 ##   ; 5350; 5342 5351
+50337 .... Thalgau                                ## M ; 5303; 
+50338 .... Wals-Siezenheim                        ##   ; 5071; 
+50339 .... Seekirchen am Wallersee                ## ST; 5201; 5162
+504   .. Sankt Johann im Pongau
+50401 .... Altenmarkt im Pongau                   ## M ; 5541; 
+50402 .... Bad Hofgastein                         ## M ; 5630; 
+50403 .... Bad Gastein                            ##   ; 5640; 5645
+50404 .... Bischofshofen                          ## ST; 5500; 
+50405 .... Dorfgastein                            ##   ; 5632; 
+50406 .... Eben im Pongau                         ##   ; 5531; 
+50407 .... Filzmoos                               ##   ; 5532; 
+50408 .... Flachau                                ##   ; 5542; 
+50409 .... Forstau                                ##   ; 5552; 
+50410 .... Goldegg                                ##   ; 5622; 5620 5621 5651
+50411 .... Großarl                                ## M ; 5611; 
+50412 .... Hüttau                                 ##   ; 5511; 5521
+50413 .... Hüttschlag                             ##   ; 5612; 
+50414 .... Kleinarl                               ##   ; 5603; 
+50415 .... Mühlbach am Hochkönig                  ##   ; 5505; 
+50416 .... Pfarrwerfen                            ##   ; 5452; 5450 5500
+50417 .... Radstadt                               ## ST; 5550; 8974
+50418 .... Sankt Johann im Pongau                 ## ST; 5600; 5602
+50419 .... Sankt Martin am Tennengebirge          ##   ; 5522; 5523
+50420 .... Sankt Veit im Pongau                   ## M ; 5621; 
+50421 .... Schwarzach im Pongau                   ## M ; 5620; 5622
+50422 .... Untertauern                            ##   ; 5561; 5562
+50423 .... Wagrain                                ## M ; 5602; 
+50424 .... Werfen                                 ## M ; 5450; 5451 5452 5505
+50425 .... Werfenweng                             ##   ; 5453; 
+505   .. Tamsweg
+50501 .... Göriach                                ##   ; 5574; 
+50502 .... Lessach                                ##   ; 5575; 
+50503 .... Mariapfarr                             ##   ; 5571; 
+50504 .... Mauterndorf                            ## M ; 5570; 
+50505 .... Muhr                                   ##   ; 5583; 
+50506 .... Ramingstein                            ##   ; 5591; 8863
+50507 .... Sankt Andrä im Lungau                  ##   ; 5572; 
+50508 .... Sankt Margarethen im Lungau            ##   ; 5581; 
+50509 .... Sankt Michael im Lungau                ## M ; 5582; 
+50510 .... Tamsweg                                ## M ; 5580; 
+50511 .... Thomatal                               ##   ; 5592; 
+50512 .... Tweng                                  ##   ; 5563; 5562
+50513 .... Unternberg                             ##   ; 5585; 
+50514 .... Weißpriach                             ##   ; 5573; 
+50515 .... Zederhaus                              ##   ; 5584; 
+506   .. Zell am See
+50601 .... Bramberg am Wildkogel                  ##   ; 5733; 5731 5732 5741
+50602 .... Bruck an der Großglocknerstraße        ##   ; 5671; 5662
+50603 .... Dienten am Hochkönig                   ##   ; 5652; 
+50604 .... Fusch an der Großglocknerstraße        ##   ; 5672; 
+50605 .... Hollersbach im Pinzgau                 ##   ; 5731; 
+50606 .... Kaprun                                 ##   ; 5710; 
+50607 .... Krimml                                 ##   ; 5743; 
+50608 .... Lend                                   ##   ; 5651; 5660
+50609 .... Leogang                                ##   ; 5771; 5760
+50610 .... Lofer                                  ## M ; 5090; 
+50611 .... Maishofen                              ##   ; 5751; 
+50612 .... Maria Alm am Steinernen Meer           ##   ; 5761; 
+50613 .... Mittersill                             ## ST; 5730; 5731
+50614 .... Neukirchen am Großvenediger            ## M ; 5741; 
+50615 .... Niedernsill                            ##   ; 5722; 
+50616 .... Piesendorf                             ##   ; 5721; 
+50617 .... Rauris                                 ## M ; 5661; 
+50618 .... Saalbach-Hinterglemm                   ##   ; 5753; 5754
+50619 .... Saalfelden am Steinernen Meer          ## ST; 5760; 
+50620 .... Sankt Martin bei Lofer                 ##   ; 5092; 
+50621 .... Stuhlfelden                            ##   ; 5724; 
+50622 .... Taxenbach                              ## M ; 5660; 5651 5662
+50623 .... Unken                                  ##   ; 5091; 
+50624 .... Uttendorf                              ##   ; 5723; 
+50625 .... Viehhofen                              ##   ; 5752; 
+50626 .... Wald im Pinzgau                        ##   ; 5742; 
+50627 .... Weißbach bei Lofer                     ##   ; 5093; 
+50628 .... Zell am See                            ## ST; 5700; 
