@@ -1,0 +1,143 @@
+2     Kärnten
+201   .. Klagenfurt Stadt
+20101 .... Klagenfurt am Wörthersee               ## SS; 9020; 9061 9063 9073 9201
+202   .. Villach Stadt
+20201 .... Villach                                ## SS; 9500; 9241 9504 9523 9524 9580 9585 9586 9587
+203   .. Hermagor
+20302 .... Dellach                                ##   ; 9635; 9640
+20305 .... Hermagor-Pressegger See                ## ST; 9620; 9615 9624 9631
+20306 .... Kirchbach                              ## M ; 9632; 9631 9633 9634
+20307 .... Kötschach-Mauthen                      ## M ; 9640; 9635 9651 9652
+20316 .... St. Stefan im Gailtal                  ##   ; 9623; 9614 9615 9711
+20320 .... Gitschtal                              ##   ; 9622; 9620
+20321 .... Lesachtal                              ##   ; 9653; 9652 9654 9655
+204   .. Klagenfurt Land
+20402 .... Ebenthal in Kärnten                    ## M ; 9065; 9020
+20403 .... Feistritz im Rosental                  ## M ; 9181; 9162
+20405 .... Ferlach                                ## ST; 9170; 9162 9163
+20409 .... Grafenstein                            ## M ; 9131; 
+20412 .... Keutschach am See                      ##   ; 9074; 
+20414 .... Köttmannsdorf                          ##   ; 9071; 9073 9161
+20415 .... Krumpendorf am Wörthersee              ##   ; 9201; 9061 9210
+20416 .... Ludmannsdorf                           ##   ; 9072; 9181
+20417 .... Maria Rain                             ##   ; 9161; 
+20418 .... Maria Saal                             ## M ; 9063; 9020 9061 9064
+20419 .... Maria Wörth                            ##   ; 9081; 9073 9082
+20421 .... Moosburg                               ## M ; 9062; 9061 9201 9210 9560
+20424 .... Pörtschach am Wörther See              ##   ; 9210; 9062 9201
+20425 .... Poggersdorf                            ##   ; 9130; 
+20428 .... St. Margareten im Rosental             ##   ; 9173; 
+20432 .... Schiefling am Wörthersee               ## M ; 9535; 9220
+20435 .... Techelsberg am Wörther See             ##   ; 9212; 9062 9220
+20441 .... Zell                                   ##   ; 9170; 9173
+20442 .... Magdalensberg                          ##   ; 9064; 9020 9063
+205   .. Sankt Veit an der Glan
+20501 .... Althofen                               ## ST; 9330; 9322
+20502 .... Brückl                                 ## M ; 9371; 9064 9103
+20503 .... Deutsch-Griffen                        ##   ; 9572; 9571
+20504 .... Eberstein                              ## M ; 9372; 9103 9371
+20505 .... Friesach                               ## ST; 9360; 9361 9375
+20506 .... Glödnitz                               ##   ; 9346; 9345
+20508 .... Gurk                                   ## M ; 9342; 9341 9344
+20509 .... Guttaring                              ## M ; 9334; 9330 9360 9374 9375
+20511 .... Hüttenberg                             ## M ; 9375; 8820 8822 9335 9376
+20512 .... Kappel am Krappfeld                    ##   ; 9321; 9314 9330 9334 9372 9373
+20513 .... Klein St. Paul                         ## M ; 9373; 9372 9374
+20515 .... Liebenfels                             ## M ; 9556; 9300 9554 9555
+20518 .... Metnitz                                ## M ; 9363; 8850 9362
+20519 .... Micheldorf                             ##   ; 9322; 9360
+20520 .... Mölbling                               ##   ; 9330; 9300 9312 9341
+20523 .... St. Georgen am Längsee                 ##   ; 9314; 9300 9313 9321
+20527 .... St. Veit an der Glan                   ## ST; 9300; 9063 9556
+20530 .... Straßburg                              ## ST; 9341; 
+20531 .... Weitensfeld im Gurktal                 ## M ; 9344; 9343 9345
+20534 .... Frauenstein                            ##   ; 9311; 9300 9300 9312 9556
+206   .. Spittal an der Drau
+20601 .... Bad Kleinkirchheim                     ##   ; 9546; 
+20602 .... Baldramsdorf                           ##   ; 9805; 9800
+20603 .... Berg im Drautal                        ##   ; 9771; 9761
+20604 .... Dellach im Drautal                     ##   ; 9772; 
+20605 .... Großkirchheim                          ##   ; 9843; 
+20607 .... Flattach                               ##   ; 9831; 
+20608 .... Gmünd in Kärnten                       ## ST; 9853; 
+20609 .... Greifenburg                            ## M ; 9761; 
+20610 .... Heiligenblut am Großglockner           ##   ; 9844; 9981
+20611 .... Irschen                                ##   ; 9773; 9781
+20613 .... Kleblach-Lind                          ##   ; 9753; 
+20616 .... Lendorf                                ##   ; 9811; 9800
+20618 .... Mallnitz                               ##   ; 9822; 
+20619 .... Malta                                  ##   ; 9854; 9853
+20620 .... Millstatt am See                       ## M ; 9872; 
+20622 .... Mörtschach                             ##   ; 9842; 9841
+20624 .... Mühldorf                               ##   ; 9814; 
+20625 .... Oberdrauburg                           ## M ; 9781; 
+20627 .... Obervellach                            ## M ; 9821; 
+20630 .... Radenthein                             ## ST; 9545; 9546 9872 9873
+20631 .... Rangersdorf                            ##   ; 9833; 9841
+20632 .... Rennweg am Katschberg                  ## M ; 9863; 9862
+20633 .... Sachsenburg                            ## M ; 9751; 9813
+20634 .... Seeboden am Millstätter See            ## M ; 9871; 9800 9851 9872
+20635 .... Spittal an der Drau                    ## ST; 9800; 9701 9702
+20636 .... Stall                                  ##   ; 9832; 
+20637 .... Steinfeld                              ## M ; 9754; 9753
+20638 .... Trebesing                              ##   ; 9852; 9853
+20639 .... Weißensee                              ##   ; 9762; 
+20640 .... Winklern                               ## M ; 9841; 9833
+20642 .... Krems in Kärnten                       ##   ; 9861; 9862
+20643 .... Lurnfeld                               ## M ; 9813; 9811 9812 9814
+20644 .... Reißeck                                ##   ; 9815; 9816
+207   .. Villach Land
+20701 .... Afritz am See                          ##   ; 9542; 
+20702 .... Arnoldstein                            ## M ; 9601; 9586 9587 9602
+20703 .... Arriach                                ##   ; 9543; 
+20705 .... Bad Bleiberg                           ## M ; 9530; 9531
+20707 .... Feistritz an der Gail                  ##   ; 9613; 
+20708 .... Feld am See                            ##   ; 9544; 
+20710 .... Ferndorf                               ##   ; 9702; 9701 9873
+20711 .... Finkenstein am Faaker See              ## M ; 9584; 9580 9581 9582 9583 9585 9586 9587
+20712 .... Fresach                                ##   ; 9712; 9702
+20713 .... Hohenthurn                             ##   ; 9613; 9601 9602
+20719 .... Nötsch im Gailtal                      ## M ; 9611; 9531 9612 9623
+20720 .... Paternion                              ## M ; 9711; 9701 9710 9714
+20721 .... Rosegg                                 ## M ; 9232; 9184 9581
+20722 .... St. Jakob im Rosental                  ## M ; 9184; 9182 9183
+20723 .... Stockenboi                             ##   ; 9713; 9701 9711 9714
+20724 .... Treffen am Ossiacher See               ## M ; 9521; 9520 9541 9542 9551
+20725 .... Velden am Wörther See                  ## M ; 9220; 9231 9536
+20726 .... Weißenstein                            ## M ; 9721; 9500 9710 9722
+20727 .... Wernberg                               ##   ; 9241; 9220
+208   .. Völkermarkt
+20801 .... Bleiburg                               ## ST; 9150; 
+20802 .... Diex                                   ##   ; 9103; 9102 9111 9112
+20803 .... Eberndorf                              ## M ; 9141; 9125
+20804 .... Eisenkappel-Vellach                    ## M ; 9135; 
+20805 .... Feistritz ob Bleiburg                  ## M ; 9143; 9150
+20806 .... Gallizien                              ##   ; 9132; 9123 9131 9133 9173
+20807 .... Globasnitz                             ##   ; 9142; 9141 9143
+20808 .... Griffen                                ## M ; 9112; 9103 9104 9111 9113
+20810 .... Neuhaus                                ##   ; 9155; 
+20812 .... Ruden                                  ##   ; 9113; 9111 9112
+20813 .... St. Kanzian am Klopeiner See           ##   ; 9122; 
+20815 .... Sittersdorf                            ##   ; 9133; 
+20817 .... Völkermarkt                            ## ST; 9100; 9064 9102 9103 9111 9112 9113 9121 9371
+209   .. Wolfsberg
+20901 .... Bad St. Leonhard im Lavanttal          ## ST; 9462; 9441 9461 9463
+20905 .... Frantschach-St. Gertraud               ## M ; 9413; 9400
+20909 .... Lavamünd                               ## M ; 9473; 9423 9472
+20911 .... Preitenegg                             ##   ; 9451; 9441
+20912 .... Reichenfels                            ## M ; 9463; 9462
+20913 .... St. Andrä                              ## ST; 9433; 9104 9112 9421 9422 9431 9470
+20914 .... St. Georgen im Lavanttal               ##   ; 9423; 9470
+20918 .... St. Paul im Lavanttal                  ## M ; 9470; 9112 9433 9472 9473
+20923 .... Wolfsberg                              ## ST; 9400; 9411 9412 9413 9421 9431 9433 9441 9461 9462
+210   .. Feldkirchen
+21001 .... Albeck                                 ##   ; 9571; 9345
+21002 .... Feldkirchen in Kärnten                 ## ST; 9560; 9062
+21003 .... Glanegg                                ##   ; 9555; 9556 9560
+21004 .... Gnesau                                 ##   ; 9563; 
+21005 .... Himmelberg                             ##   ; 9562; 9552 9560 9563
+21006 .... Ossiach                                ##   ; 9570; 9231 9560
+21007 .... Reichenau                              ##   ; 9565; 9564
+21008 .... St. Urban                              ##   ; 9554; 9556
+21009 .... Steindorf am Ossiacher See             ##   ; 9551; 9552 9560
+21010 .... Steuerberg                             ##   ; 9560; 
