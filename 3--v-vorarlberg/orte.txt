@@ -76,6 +76,7 @@
 80303 .... Lustenau                               ## M ; 6890; 
 804   .. Feldkirch
 80401 .... Altach                                 ##   ; 6844; 
+      ...... Altach         ## 5_704
 80402 .... Düns                                   ##   ; 6822; 
 80403 .... Dünserberg                             ##   ; 6822; 
 80404 .... Feldkirch                              ## ST; 6800; 
