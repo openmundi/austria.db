@@ -30,6 +30,7 @@
 50312 .... Fuschl am See                          ##   ; 5330; 
 50313 .... Göming                                 ##   ; 5114; 
 50314 .... Grödig                                 ## M ; 5082; 5083
+      ...... Grödig           ## 6_638
 50315 .... Großgmain                              ##   ; 5084; 
 50316 .... Hallwang                               ##   ; 5300; 
 50317 .... Henndorf am Wallersee                  ##   ; 5302; 
