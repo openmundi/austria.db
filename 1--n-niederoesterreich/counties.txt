@@ -1,11 +1,10 @@
 ##  Niederoesterreich (N)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##   4 Statutarstädte  - Krems, St. Pölten, Waidhofen an der Ybbs, Wr. Neustadt
+##  21 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  573 Gemeinden (davon 76 Städte, 327 Marktgemeinden)
+##  3 881 Ortschaften
 
 ks, Krems an der Donau (Stadt),                 52 km²,   24_085  # KS
 p,  St. Pölten (Stadt),                        108 km²,   52_145 # P
