@@ -17,7 +17,7 @@ li, Liezen,                 3459 km²,    79_535    # LI BA(A)
 mu, Murau,                  1384 km²,    28_488    # MU
 vo, Voitsberg,               679 km²,    51_691    # VO 
 wz, Weiz,                   1098 km²,    88_696    # WZ
-mu, Murtal,                 1676 km²,   72_876    # MT JU, KF(A)   -- (Judenburg)
+mt, Murtal,                 1676 km²,   72_876    # MT JU, KF(A)   -- (Judenburg)
 bm, Bruck-Mürzzuschlag,     2155 km²,   100_780   # BM MZ(A)       -- (Bruck an der Mur)
 hf, Hartberg-Fürstenfeld,   1228 km²,    90_357   # HF HB, FF(A)   -- (Hartberg)
 so, Südoststeiermark,       1009 km²,    85_887   # SO FB, RA(A)   -- (Feldbach)
