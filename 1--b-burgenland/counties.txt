@@ -1,10 +1,8 @@
 ##  Burgenland (B)
 #
-## 2 Statutarstädte  - Eisenstadt, Rust
+## 2 Statutarstädte  -- Eisenstadt, Rust
 ## 7 Bezirke
-##
-##  13 Städte
-##  171 Gemeinden
+##  171 Gemeinden (davon 13 Städte, 67 Marktgemeinden)
 ##  328 Ortschaften
 
 
