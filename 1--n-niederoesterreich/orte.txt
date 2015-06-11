@@ -3,7 +3,7 @@
 3     Niederösterreich
 301   .. Krems an der Donau (Stadt)
 30101 .... Krems an der Donau                     ## SS; 3500; 3506 3541
-302   .. Sankt Pölten (Stadt)
+302   .. St. Pölten (Stadt)
 30201 .... St. Pölten                             ## SS; 3100; 3104 3105 3107 3140 3151 3385
 303   .. Waidhofen an der Ybbs (Stadt)
 30301 .... Waidhofen an der Ybbs                  ## SS; 3340; 3263
@@ -420,7 +420,7 @@
 31847 .... Würflach                               ##   ; 2732; 
 31848 .... Zöbern                                 ##   ; 2871; 2851 2852 2870 8244
 31849 .... Höflein an der Hohen Wand              ##   ; 2732; 2724 2733
-319   .. Sankt Pölten (Land)
+319   .. St. Pölten (Land)
 31901 .... Altlengbach                            ## M ; 3033; 3032 3051 3052 3053
 31902 .... Asperhofen                             ## M ; 3041; 3034 3443 3451
 31903 .... Böheimkirchen                          ## M ; 3071; 3072 3140

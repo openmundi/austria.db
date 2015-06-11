@@ -8,8 +8,8 @@
 ##  328 Ortschaften
 
 
-e,    Eisenstadt,          Eisenstadt,         43 km²
-eii,  Rust,                Rust,               20 km²    ## also uses E  - what to do for key??
+e,    Eisenstadt (Stadt),  Eisenstadt,         43 km²
+eii,  Rust (Stadt),        Rust,               20 km²    ## also uses E  - what to do for key??
 
 eu,  Eisenstadt-Umgebung, Eisenstadt,        453 km²
 gs,  Güssing,             Güssing,           485 km²
