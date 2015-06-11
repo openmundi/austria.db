@@ -1,11 +1,10 @@
 ##  Oberoesterreich (O)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##   3 Statutarstädte  -- Linz, Steyr, Wels
+##  15 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  442 Gemeinden (davon 32 Städte, 151 Marktgemeinden)
+##  6 645 Ortschaften
 
 
 l,  Linz (Stadt),                       96 km²,  193_814   # L
