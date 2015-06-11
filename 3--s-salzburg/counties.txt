@@ -1,11 +1,10 @@
 ##  Salzburg (S)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##  1 Statutarstädte  -- Salzburg
+##  5 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  119 Gemeinden (davon 11 Städte, 24 Marktgemeinden)
+##  724 Ortschaften
 
 
 s,  Salzburg (Stadt),                                     66 km²,  146_631   # S
