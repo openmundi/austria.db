@@ -8,22 +8,23 @@
 ##  ?? Ortschaften
 
 
-Linz,                       96 km²,  193_814   # L
-Steyr,                      27 km²,   38_120   # SR 
-Wels,                       46 km²,   59_339   # WE 
-Braunau am Inn,           1040 km²,   98_842   # BR
-Eferding,                  259 km²,   31_961   # EF
-Freistadt,                 994 km²,   65_208   # FR
-Gmunden,                  1433 km²,   99_540   # GM
-Grieskirchen,              579 km²,   62_938   # GR 
-Kirchdorf an der Krems,   1240 km²,   55_571   # KI 
-Linz-Land (Linz),          460 km²,  141_540   # LL
-Perg,                      614 km²,   66_269   # PE 
-Ried im Innkreis,          585 km²,   58_714   # RI
-Rohrbach,                  828 km²,   56_455   # RO 
-Schärding,                 618 km²,   56_287   # SD
-Steyr-Land (Steyr),        972 km²,   58_618   # SE
-Urfahr-Umgebung (Linz),    649 km²,   82_109   # UU 
-Vöcklabruck,              1084 km²,  131_497   # VB
-Wels-Land (Wels),          458 km²,   68_600   # WL
+l,  Linz (Stadt),                       96 km²,  193_814   # L
+sr, Steyr (Stadt),                      27 km²,   38_120   # SR 
+we, Wels (Stadt),                       46 km²,   59_339   # WE 
+
+br, Braunau am Inn,           1040 km²,   98_842   # BR
+ef, Eferding,                  259 km²,   31_961   # EF
+fr, Freistadt,                 994 km²,   65_208   # FR
+gm, Gmunden,                  1433 km²,   99_540   # GM
+gr, Grieskirchen,              579 km²,   62_938   # GR 
+ki, Kirchdorf an der Krems,   1240 km²,   55_571   # KI 
+ll, Linz-Land,                 460 km²,  141_540   # LL
+pe, Perg,                      614 km²,   66_269   # PE 
+ri, Ried im Innkreis,          585 km²,   58_714   # RI
+ro, Rohrbach,                  828 km²,   56_455   # RO 
+sd, Schärding,                 618 km²,   56_287   # SD
+se, Steyr-Land,                972 km²,   58_618   # SE
+uu, Urfahr-Umgebung,           649 km²,   82_109   # UU 
+vb, Vöcklabruck,              1084 km²,  131_497   # VB
+wl, Wels-Land,                 458 km²,   68_600   # WL
 

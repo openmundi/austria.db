@@ -54,7 +54,7 @@
 50337 .... Thalgau                                ## M ; 5303; 
 50338 .... Wals-Siezenheim                        ##   ; 5071; 
 50339 .... Seekirchen am Wallersee                ## ST; 5201; 5162
-504   .. Sankt Johann im Pongau
+504   .. St. Johann im Pongau
 50401 .... Altenmarkt im Pongau                   ## M ; 5541; 
 50402 .... Bad Hofgastein                         ## M ; 5630; 
 50403 .... Bad Gastein                            ##   ; 5640; 5645

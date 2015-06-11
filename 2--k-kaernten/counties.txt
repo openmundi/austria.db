@@ -8,14 +8,15 @@
 ##  ?? Ortschaften
 
 
-Klagenfurt am Wörthersee,                   120 km²,    96_640   # K
-Villach,                                    135 km²,    60_004   # VI
-Hermagor (Hermagor-Pressegger See),         808 km²,    18_547   # HE
-Klagenfurt-Land (Klagenfurt am Wörthersee), 766 km²,    58_435   # KL
-Sankt Veit an der Glan,                    1494 km²,    55_394   # SV
-Spittal an der Drau,                       2765 km²,    76_971   # SP
-Villach-Land (Villach),                    1009 km²,    64_268   # VL
-Völkermarkt,                                907 km²,    42_068   # VK
-Wolfsberg,                                  974 km²,    53_472   # WO
-Feldkirchen,                                559 km²,    30_082   # FE
+k,  Klagenfurt (Stadt),                     120 km²,    96_640   # K
+vi, Villach (Stadt),                        135 km²,    60_004   # VI
+
+kl, Klagenfurt (Land),                          766 km²,    58_435   # KL
+vl, Villach (Land),                            1009 km²,    64_268   # VL
+he, Hermagor (Hermagor-Pressegger See),         808 km²,    18_547   # HE
+sv, St. Veit an der Glan,                      1494 km²,    55_394   # SV
+sp, Spittal an der Drau,                       2765 km²,    76_971   # SP
+vk, Völkermarkt,                                907 km²,    42_068   # VK
+wo, Wolfsberg,                                  974 km²,    53_472   # WO
+fe, Feldkirchen,                                559 km²,    30_082   # FE
 

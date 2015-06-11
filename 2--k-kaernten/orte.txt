@@ -1,7 +1,7 @@
 2     Kärnten
-201   .. Klagenfurt Stadt
+201   .. Klagenfurt (Stadt)
 20101 .... Klagenfurt am Wörthersee               ## SS; 9020; 9061 9063 9073 9201
-202   .. Villach Stadt
+202   .. Villach (Stadt)
 20201 .... Villach                                ## SS; 9500; 9241 9504 9523 9524 9580 9585 9586 9587
 203   .. Hermagor
 20302 .... Dellach                                ##   ; 9635; 9640
@@ -11,7 +11,7 @@
 20316 .... St. Stefan im Gailtal                  ##   ; 9623; 9614 9615 9711
 20320 .... Gitschtal                              ##   ; 9622; 9620
 20321 .... Lesachtal                              ##   ; 9653; 9652 9654 9655
-204   .. Klagenfurt Land
+204   .. Klagenfurt (Land)
 20402 .... Ebenthal in Kärnten                    ## M ; 9065; 9020
 20403 .... Feistritz im Rosental                  ## M ; 9181; 9162
 20405 .... Ferlach                                ## ST; 9170; 9162 9163
@@ -31,7 +31,7 @@
 20435 .... Techelsberg am Wörther See             ##   ; 9212; 9062 9220
 20441 .... Zell                                   ##   ; 9170; 9173
 20442 .... Magdalensberg                          ##   ; 9064; 9020 9063
-205   .. Sankt Veit an der Glan
+205   .. St. Veit an der Glan
 20501 .... Althofen                               ## ST; 9330; 9322
 20502 .... Brückl                                 ## M ; 9371; 9064 9103
 20503 .... Deutsch-Griffen                        ##   ; 9572; 9571
@@ -86,7 +86,7 @@
 20642 .... Krems in Kärnten                       ##   ; 9861; 9862
 20643 .... Lurnfeld                               ## M ; 9813; 9811 9812 9814
 20644 .... Reißeck                                ##   ; 9815; 9816
-207   .. Villach Land
+207   .. Villach (Land)
 20701 .... Afritz am See                          ##   ; 9542; 
 20702 .... Arnoldstein                            ## M ; 9601; 9586 9587 9602
 20703 .... Arriach                                ##   ; 9543; 

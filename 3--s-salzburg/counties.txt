@@ -8,9 +8,9 @@
 ##  ?? Ortschaften
 
 
-s,  Salzburg,                                             66 km²,  146_631   # S
+s,  Salzburg (Stadt),                                     66 km²,  146_631   # S
 ha, Hallein|Tennengau,                                   668 km²,   58_336   # HA
-sl, Salzburg-Umgebung (Salzburg)|Flachgau,              1004 km²,  145_275   # SL
+sl, Salzburg-Umgebung|Flachgau,                         1004 km²,  145_275   # SL
 jo, St. Johann im Pongau|Sankt Johann im Pongau|Pongau, 1755 km²,   78_614   # JO
 ta, Tamsweg|Lungau,                                     1020 km²,   20_450   # TA
 ze, Zell am See|Pinzgau,                                2641 km²,   84_964   # ZE

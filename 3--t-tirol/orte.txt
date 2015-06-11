@@ -1,5 +1,5 @@
 7     Tirol
-701   .. Innsbruck-Stadt
+701   .. Innsbruck (Stadt)
 70101 .... Innsbruck                              ## SS; 6020; 6080
 702   .. Imst
 70201 .... Arzl im Pitztal                        ##   ; 6471; 6460
