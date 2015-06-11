@@ -1,11 +1,10 @@
 ##  Tirol (T)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##  1 Statutarstadt  -- Innsbruck
+##  8 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  279 Gemeinden (11 Städte, 20 Marktgemeinden)
+##  635 Ortschaften
 
 i,  Innsbruck (Stadt),          105 km², 124_579    # I
 im, Imst,                       1725 km²,  57_271   # IM
