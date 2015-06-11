@@ -1,11 +1,10 @@
 ##  Kaernten (K)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##  2 Statutarstädte  -- Klagenfurt, Villach
+##  8 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  132 Gemeinden (davon 17 Städte, 47 Marktgemeinden)
+##  2 824 Ortschaften
 
 
 k,  Klagenfurt (Stadt),                     120 km²,    96_640   # K
