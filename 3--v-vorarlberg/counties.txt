@@ -1,11 +1,10 @@
 ##  Vorarlberg (V)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##  - Statutarstädte
+##  4 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  96 Gemeinden (5 Städte, 11 Marktgemeinden)
+##  157 Ortschaften
 
 
 bz, Bludenz,        1288 km²,    61_100   # BZ
