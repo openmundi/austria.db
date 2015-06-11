@@ -1,11 +1,10 @@
 ##  Steiermark (ST)
 #
-##  ?? Statutarstädte  - 
-##  ?? Bezirke
+##   1 Statutarstädte  - Graz
+##  12 Bezirke
 ##
-##  ?? Städte
-##  ?? Gemeinden
-##  ?? Ortschaften
+##  287 Gemeinden (davon 35 Städte, 121 Marktgemeinden)
+##  2 067 Ortschaften
 
 g,  Graz (Stadt),            127 km²,   273_838    # G
 
