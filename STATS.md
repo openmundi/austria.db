@@ -3,8 +3,8 @@
 
 - 9 states (Bundeslaender)
 
-| Bundesland | Bezirke  | dar. Statutarstädte | dar. Bezirke | Gemeinden | dar. Stadtgemeinden | dar. Marktgemeinden |
-| ---------- | -------- | ------------------- | ------------ | --------- | ------------------- | ------------------- |
+| Bundesland | Bezirke  | dar. Statutar- städte | dar. Bezirke | Gemeinden | dar. Stadt- gemeinden | dar. Markt- gemeinden |
+| ---------- | -------- | ------------------- | ------------ | --------- | -------------- | ------------ |
 | Burgenland       |  9 |  2                  |  7           |   171     |  13  |  67 |
 | Kärnten          | 10 |  2                  |  8           |   132     |  17  |  47 |
 | Niederösterreich | 25 |  4                  | 21           |   573     |  76  | 327 |
