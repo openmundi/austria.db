@@ -27,7 +27,7 @@ md, Mödling,                           277 km²,   115_677 # MD
 nk, Neunkirchen,                      1146 km²,   85_539  # NK 
 pl, St. Pölten (Land),                1122 km²,   97_365  #  PL
 sb, Scheibbs,                         1023 km²,   41_073   # SB   
-tu, Tulln (an der Donau),              658 km²,   72_104  # TU  
+tu, Tulln|Tulln (an der Donau),        658 km²,   72_104  # TU     -- todo/fix: (auto-)add variants for names if() used  
 wt, Waidhofen an der Thaya,            669 km²,   26_424   # WT
 wb, Wiener Neustadt (Land),            970 km²,    75_285   # WB  
 wu, Wien-Umgebung,                     484 km²,   117_343   # WU, SW (f. Schwechat) 
