@@ -12,7 +12,7 @@ vi, Villach (Stadt),                        135 km²,    60_004   # VI
 
 kl, Klagenfurt (Land),                          766 km²,    58_435   # KL
 vl, Villach (Land),                            1009 km²,    64_268   # VL
-he, Hermagor (Hermagor-Pressegger See),         808 km²,    18_547   # HE
+he, Hermagor|Hermagor (Hermagor-Pressegger See),  808 km²,    18_547   # HE  -- todo/fix: (auto-)add variants for names if() used 
 sv, St. Veit an der Glan,                      1494 km²,    55_394   # SV
 sp, Spittal an der Drau,                       2765 km²,    76_971   # SP
 vk, Völkermarkt,                                907 km²,    42_068   # VK
